@@ -9,6 +9,14 @@ import (
 	"time"
 )
 
+// @Summary 获取游戏列表
+// @Produce json
+// @Param id path int true "文章ID"
+// @Success 200 {object} Article "成功"
+// @Failure 400 {object} string "请求错误"
+// @Failure 500 {object} string "内部错误"
+// @Router /api/getGame [get]
+
 var gameCache sync.Map
 
 type CacheItem struct {
