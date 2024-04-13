@@ -5,9 +5,11 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"github.com/gin-gonic/gin"
+	"io"
 	"log"
 	"math"
 	"net/http"
+	"os"
 	"strconv"
 	"sync"
 	"time"
@@ -18,21 +20,60 @@ func main() {
 	if err != nil {
 		log.Fatal("无法加载配置文件:", err)
 	}
-
+	logic.InitLogger()
+	defer logic.CloseLogger()
+	logFile, err := os.OpenFile("gin.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		panic(err) // 无法打开或创建文件时退出
+	}
+	defer logFile.Close()
+	// 设置Gin的日志输出到文件
+	gin.DefaultWriter = io.MultiWriter(logFile, os.Stdout)
 	r := gin.Default()
 	//r.Use(VerifySign)
-	r.GET("/api/getCity", func(c *gin.Context) {
-		logic.GetCity(c, logic.Data.Username, logic.Data.Password)
-	})
 	r.GET("/api/getGame", func(c *gin.Context) {
-		logic.GetGame(c, logic.Data.Username, logic.Data.Password)
-	})
-	r.POST("/api/postOrder", func(c *gin.Context) {
-		logic.BuyOrder(c, logic.Data.Username, logic.Data.Password)
+		logic.GetGame(c, logic.Data.Token)
 	})
 	r.GET("/api/GetGameCity", func(c *gin.Context) {
-		logic.GetGameCity(c, logic.Data.Username, logic.Data.Password)
+		logic.GetGameCity(c, logic.Data.Token)
 	})
+	{
+		r.POST("/api/postOrder", func(c *gin.Context) {
+			if logic.Data.Test == true {
+				logic.BuyOrder1(c, logic.Data.Token)
+			} else {
+				logic.BuyOrder(c, logic.Data.Token)
+			}
+		})
+		r.POST("/api/Renewal", func(c *gin.Context) {
+			if logic.Data.Test == true {
+				logic.Renewal1(c, logic.Data.Token)
+			} else {
+				logic.Renewal(c, logic.Data.Token)
+			}
+		})
+		r.POST("/api/Change", func(c *gin.Context) {
+			if logic.Data.Test == true {
+				logic.Change1(c, logic.Data.Token)
+			} else {
+				logic.Change(c, logic.Data.Token)
+			}
+		})
+		r.POST("/api/Unsubscribe", func(c *gin.Context) {
+			if logic.Data.Test == true {
+				logic.Unsubscribe1(c, logic.Data.Token)
+			} else {
+				logic.Unsubscribe(c, logic.Data.Token)
+			}
+		})
+		r.POST("/api/ChangeCity", func(c *gin.Context) {
+			if logic.Data.Test == true {
+				logic.ChangeCity1(c, logic.Data.Token)
+			} else {
+				logic.ChangeCity(c, logic.Data.Token)
+			}
+		})
+	}
 	port := logic.Data.Port
 	if err := r.Run(":" + port); err != nil {
 		panic("gin 启动失败")
