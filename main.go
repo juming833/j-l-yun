@@ -26,11 +26,16 @@ func main() {
 	if err != nil {
 		panic(err) // 无法打开或创建文件时退出
 	}
-	defer logFile.Close()
+	defer func(logFile *os.File) {
+		err := logFile.Close()
+		if err != nil {
+
+		}
+	}(logFile)
 	// 设置Gin的日志输出到文件
 	gin.DefaultWriter = io.MultiWriter(logFile, os.Stdout)
 	r := gin.Default()
-	//r.Use(VerifySign)
+	r.Use(VerifySign)
 	r.GET("/api/getGame", func(c *gin.Context) {
 		logic.GetGame(c, logic.Data.Token)
 	})
@@ -40,9 +45,9 @@ func main() {
 	{
 		r.POST("/api/postOrder", func(c *gin.Context) {
 			if logic.Data.Test == true {
-				logic.BuyOrder1(c, logic.Data.Token)
+				logic.BuyOrder1(c, logic.Data.Token, logic.Data.Username, logic.Data.Password)
 			} else {
-				logic.BuyOrder(c, logic.Data.Token)
+				logic.BuyOrder(c, logic.Data.Token, logic.Data.Username, logic.Data.Password)
 			}
 		})
 		r.POST("/api/Renewal", func(c *gin.Context) {
@@ -81,15 +86,21 @@ func main() {
 }
 
 func VerifySign(c *gin.Context) {
-	adminid := c.Query("adminid")
-	timestamp := c.Query("ti")
-	nonce := c.Query("nonce")
-	sign := c.Query("sign")
+	adminid := c.DefaultQuery("adminid", "")
+	timestamp := c.DefaultQuery("ti", "")
+	nonce := c.DefaultQuery("nonce", "")
+	sign := c.DefaultQuery("sign", "")
 	apiKey := logic.Data.ApiKey
 
+	if c.Request.Method == http.MethodPost {
+		adminid = c.DefaultPostForm("adminid", "")
+		timestamp = c.DefaultPostForm("ti", "")
+		nonce = c.DefaultPostForm("nonce", "")
+		sign = c.DefaultPostForm("sign", "")
+	}
 	currentTime := time.Now().Unix()
 	requestTime, _ := strconv.ParseInt(timestamp, 10, 64)
-	if math.Abs(float64(currentTime-requestTime)) > 300 { // 允许30秒的时间差
+	if math.Abs(float64(currentTime-requestTime)) > 30 { // 允许30秒的时间差
 		c.JSON(http.StatusUnauthorized, gin.H{
 			"error": "Invalid timestamp",
 		})

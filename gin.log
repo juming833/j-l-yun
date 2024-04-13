@@ -1,0 +1,983 @@
+[GIN] 2024/04/12 - 14:58:22 | 200 |     147.699ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905103&nonce=aefbf0090885f55da0d6124d2c309ace&sign=63ee8d194d54a25c6d5291a4057a56ac"
+[GIN] 2024/04/12 - 14:59:23 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905164&nonce=355899048758167190d44b8cbab4d26a&sign=7931c8caccac63d795492dfdd51f27d0"
+[GIN] 2024/04/12 - 15:02:03 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905325&nonce=888cd1bdbe39c32a1d4abae0cab1da02&sign=f12d8cd153a168a578b643cbd1a6c3f1"
+[GIN] 2024/04/12 - 15:02:27 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905348&nonce=3ed38c006c703ef48b4a5139d9e8e10c&sign=c6fa48f634210a038c473d6848463d3d"
+[GIN] 2024/04/12 - 15:03:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905393&nonce=bed19ff78729f7f2ad1a87296cac3a50&sign=8455cc3119e808f62a114bf73e25a5e4"
+[GIN] 2024/04/12 - 15:03:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905423&nonce=c88fc63fbee92b9d9ff6103e9636baad&sign=9ca745e59154490142128bf9dd1bdbc0"
+[GIN] 2024/04/12 - 15:03:42 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905424&nonce=f68bb079fe5f969f93f6348e63212fa4&sign=00222e725dfb76beea3bb0fb35aca3f3"
+[GIN] 2024/04/12 - 15:03:57 | 200 |    799.0331ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712905438&nonce=dadf816e68a16923e6fd4367dd924576&sign=b93030182a24a17251b51892ae75af1b"
+[GIN] 2024/04/12 - 15:04:48 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905489&nonce=9bb896a3603740c2ef88fe30b5142070&sign=514cf8b9c7faf796037f0abf881e31e1"
+[GIN] 2024/04/12 - 15:04:59 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905500&nonce=1cc40cdf867a7c02f91f773603e9aca0&sign=5db4d5a0b1b461e95fe4724ff6a01537"
+[GIN] 2024/04/12 - 15:04:59 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905501&nonce=c8480ae2027ef19129ca5c137230af7c&sign=8229d33ff11118b2e0988a6309987b1e"
+[GIN] 2024/04/12 - 15:05:56 | 200 |    153.4055ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712905557&nonce=ea622e7c8209191d316a9c09b8f708f0&sign=1532c84f6218b20cc1a1849e1b6297a2"
+[GIN] 2024/04/12 - 15:06:19 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905581&nonce=b534568300275b5b573b5d51fd644ee9&sign=24b1f83433c406a9abdb5dee7a77ca3d"
+[GIN] 2024/04/12 - 15:06:44 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905605&nonce=508167400d5f1a583f73807bb14784db&sign=1e4a9907f167596b5bef4a206907ae59"
+[GIN] 2024/04/12 - 15:06:45 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905607&nonce=c487ad2b07a1da09a8f13b8ec4871478&sign=bd22c7ab452298a240d022796f608059"
+[GIN] 2024/04/12 - 15:06:46 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905607&nonce=04d2faa0758638bb62e3def7d3fef2ac&sign=75b1a236043c3d23bb39dba2884d97e8"
+[GIN] 2024/04/12 - 15:07:00 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905621&nonce=042a89b6553164b19d1272f2fd4d31f2&sign=485b7472864507a36457c5c9fe8b7c3f"
+[GIN] 2024/04/12 - 15:09:29 | 200 |    3.1106748s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905767&nonce=c972e70e45827bab6274270a5e96db1e&sign=b6b429a3437ec43f5ff833ed5dd6bed3"
+[GIN] 2024/04/12 - 15:09:29 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905771&nonce=69fab3fb6c7d15b1b3a121554f8cfdcf&sign=99991f5f2ee08f1b1ec00dd9c85f64e1"
+[GIN] 2024/04/12 - 15:09:33 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905774&nonce=0a95f97ad697d907cf2c2027ce0511ff&sign=9ae828f5f21dc5f441ce35fe2e9a05fe"
+[GIN] 2024/04/12 - 15:09:34 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905775&nonce=9e13106fbfa5be20e69fdafb348d5aac&sign=7d524dd8f6163d48cef3999e7616831b"
+[GIN] 2024/04/12 - 15:10:18 | 200 |         526µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905820&nonce=e106fed64a678a31c1b2e92219e1ae6a&sign=e18ef3c4237e49fdf2aa0a74fb78c776"
+[GIN] 2024/04/12 - 15:12:43 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712905965&nonce=fdc50fba82981161b5695a1ff191d73a&sign=b295c03bd1af0b19a2d32e89f1e01db1"
+[GIN] 2024/04/12 - 15:12:52 | 200 |    314.4032ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712905973&nonce=dffccdb0407673e7270898db40c2fb45&sign=8dd99394880e2b6df547b8ed3a9b6c37"
+[GIN] 2024/04/12 - 15:13:55 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906036&nonce=908a3c17341a455732e408b3d118e394&sign=b69e339aec3cb486c26e3e36fbb252bb"
+[GIN] 2024/04/12 - 15:14:01 | 200 |    3.3819656s |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906039&nonce=13042c603ee2aac08535190229fdbfe0&sign=cc365f7470828f437ce16d5678c77f01"
+[GIN] 2024/04/12 - 15:14:01 | 200 |    183.2495ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906042&nonce=39f547500d0258787bfbf240655565f8&sign=6f66db1684195a503351c16f8b097906"
+[GIN] 2024/04/12 - 15:14:03 | 200 |    253.8125ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906044&nonce=335a914f8f05b8ef2d528890d74be383&sign=791df834abff38ce43e0132140d11e25"
+[GIN] 2024/04/12 - 15:14:04 | 200 |    308.4418ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906045&nonce=e5533da9f57c40eee26de06addd12f6c&sign=fe378289b551975cb62aaf1eea38830d"
+[GIN] 2024/04/12 - 15:14:05 | 200 |    341.9744ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906046&nonce=c15144ede85965fb913c6d059a238c03&sign=17c0f75dbd984cf1ec4aa75b87496aa2"
+[GIN] 2024/04/12 - 15:14:06 | 200 |    389.0948ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906047&nonce=b811ef3892a7d2cdf77d4e1d9de2801c&sign=ea57924bcee7468b59fe9d48d370ea39"
+[GIN] 2024/04/12 - 15:14:07 | 200 |    435.4526ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712906048&nonce=57335cf5d200ee722539d6fe07437bb4&sign=e1e941d580247a40b525c81ef8f8d72c"
+[GIN] 2024/04/12 - 15:14:10 | 200 |    121.1335ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906052&nonce=b8c6f09437c373f2e99fb748bad861c4&sign=b7cc8fbceaacf3f48e80407df63ef7eb"
+[GIN] 2024/04/12 - 15:14:13 | 200 |    253.8528ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906054&nonce=bd088f8373f8494d8685ee2797d5f5b5&sign=a0c730c3ba435744e6f90ff70767f7eb"
+[GIN] 2024/04/12 - 15:14:14 | 200 |    256.3103ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906056&nonce=e84ade58047269dca5d9ab1ffe55cf7c&sign=228600c2990c6a3b780ccb25048edc14"
+[GIN] 2024/04/12 - 15:14:16 | 200 |    451.8218ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906057&nonce=36d1d0db44f88554e9aea880d0b97199&sign=359f02892e71416aa130347f634c99d6"
+[GIN] 2024/04/12 - 15:14:24 | 200 |    142.8621ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906065&nonce=07211355b0a23f0784ccd86e95407a5d&sign=2fdb010e56fd8bd33c9d26302e12d51c"
+[GIN] 2024/04/12 - 15:14:28 | 200 |    275.1139ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906069&nonce=c32242b02c1b42a514ff8af9e0a05501&sign=da420b46408155046de8fdcfac895abf"
+[GIN] 2024/04/12 - 15:14:33 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906075&nonce=1a7d651ccc10588a4491ea6393296a74&sign=52387a9d9200d1502e2644fec1d00199"
+[GIN] 2024/04/12 - 15:14:35 | 200 |    228.2429ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906076&nonce=afea67028426e1c509d6ec964c2a290f&sign=804ecebe9edcc8d01fcd771183f176ed"
+[GIN] 2024/04/12 - 15:16:16 | 200 |       531.1µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906177&nonce=05b4abc52845fd762e41c52ec34aaba2&sign=31c39324a503f84be7d77291e535648f"
+[GIN] 2024/04/12 - 15:16:18 | 200 |    636.7456ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906178&nonce=74172793bce337c749fd21e1573102cc&sign=cedcc92cfdfac494f20c1c6e26cbcb1b"
+[GIN] 2024/04/12 - 15:16:19 | 200 |    742.3807ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906180&nonce=630941d2d7e5cb0badea3da82133163d&sign=6060fc00f93f13949d31a8993fd62920"
+[GIN] 2024/04/12 - 15:16:20 | 200 |    134.8749ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906182&nonce=86729f9e96974c4ef91da44ce70a0d95&sign=6f31b8934a469e8346c2e14709f4e49e"
+[GIN] 2024/04/12 - 15:16:21 | 200 |    167.6345ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906183&nonce=0f3f577d950a0b37a575594cf80f2929&sign=30bcf454521a77904ac83810aeb1fdc0"
+[GIN] 2024/04/12 - 15:16:22 | 200 |    173.6021ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906184&nonce=5b4a12f9349a5dc19b61ae139b02ee17&sign=501fa4ae8f4927d1201cb10a330644f6"
+[GIN] 2024/04/12 - 15:16:23 | 200 |    159.7482ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑传奇【手游】&adminid=admin&ti=1712906184&nonce=05d4b097b8c270a1f505b29c81d612df&sign=511a57b6d631894f6fd13c0df14cc066"
+[GIN] 2024/04/12 - 15:16:24 | 200 |    119.3367ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906186&nonce=546ab722cfb6904732848e82a8d293b5&sign=035fbf576cb5271a2c27e95bc10e113b"
+[GIN] 2024/04/12 - 15:16:25 | 200 |    159.7168ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906187&nonce=303f0918246638cd7c1bb3988217f881&sign=4850f94419dbf02268749dcbdabb2ecc"
+[GIN] 2024/04/12 - 15:16:26 | 200 |    363.7145ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906187&nonce=2f5e5839fe65e7e7222fde884dbc6b0d&sign=847bde0cccc5661969b683b1d67274e3"
+[GIN] 2024/04/12 - 15:16:31 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906192&nonce=42e1fdbbf932ab075157d86103dd13d2&sign=afc500143957acde3ee6a7030151efcd"
+[GIN] 2024/04/12 - 15:16:34 | 200 |     1.223019s |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906194&nonce=09c47d32e238026bf6a0847348bfe8c8&sign=f4e41b824d28eede39cf479d065e9402"
+[GIN] 2024/04/12 - 15:16:37 | 200 |    308.9222ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906198&nonce=9bf77c422f2ffa2ffaa2a8663605145f&sign=b0860b56c3f3beebf0e518d383097cb6"
+[GIN] 2024/04/12 - 15:16:38 | 200 |    468.9949ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906199&nonce=6e1def834c3489b2b3d876b68d4065bc&sign=30667f793bedd089be2d4dae946c17f7"
+[GIN] 2024/04/12 - 15:17:23 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906245&nonce=244e164ef466cab41fe7d209ffc8f369&sign=66e2e5a8399b9365af868584596092ef"
+[GIN] 2024/04/12 - 15:17:25 | 200 |    200.5839ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906246&nonce=17d36251fc33e2908f23d04b7f253c14&sign=2c18b05ffdfbcb0a90f2d21a65484c22"
+[GIN] 2024/04/12 - 15:17:26 | 200 |    299.6146ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906247&nonce=83218a8ad28f02220bd5cd837aafbea7&sign=e4e6197745d686b466a7650978b062ae"
+[GIN] 2024/04/12 - 15:17:27 | 200 |     248.196ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712906248&nonce=eb1194b5c30621dbb64d5257566e5861&sign=efe6ea96765f873c82c289b59d6a729e"
+[GIN] 2024/04/12 - 15:17:28 | 200 |    312.7285ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712906249&nonce=a6ff3a9de39962f08cba4062aea952d1&sign=567c2e34f8db29345029560cb56557a0"
+[GIN] 2024/04/12 - 15:17:29 | 200 |    345.4162ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712906250&nonce=8ab7823da2df4ceffa7d825cfee78d24&sign=8542e540997ca9155fc1ea95e2403ad6"
+[GIN] 2024/04/12 - 15:17:29 | 200 |    122.8321ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906251&nonce=ac855bc3fd25cdd48d1aa68a02923771&sign=b44c2a4283687625a26e7ffc7b4bf124"
+[GIN] 2024/04/12 - 15:17:30 | 200 |    143.0083ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906251&nonce=27ee09910589f27b24d5e80c829b1465&sign=a3904191ab0e49fb5e737a57de15bea1"
+[GIN] 2024/04/12 - 15:17:31 | 200 |    132.4647ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906252&nonce=45a83b8358f3cd36b4483671c7c617d2&sign=ed9a9cefed61a65b0324052a50796bef"
+[GIN] 2024/04/12 - 15:17:31 | 200 |    190.9539ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906253&nonce=877836992dad11a97f940e16d5c959c1&sign=0bd11e36be8dcbf68fc8cbe2dd839120"
+[GIN] 2024/04/12 - 15:17:32 | 200 |    119.5765ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906253&nonce=886c508228002c3caa9bf21d3b80cb02&sign=a1c51c917852a76cc1b8b61469a0de5f"
+[GIN] 2024/04/12 - 15:17:32 | 200 |    220.7138ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906254&nonce=eb90e74385342f8e10c80de9ef49cce3&sign=64cf9e6405d772f17d9cc8407ddd23cb"
+[GIN] 2024/04/12 - 15:17:33 | 200 |     125.906ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906254&nonce=959d02d9c86c7c73fafc99462a2047dd&sign=fb00a1a9abe24dfe7978dece9cc69b60"
+[GIN] 2024/04/12 - 15:17:34 | 200 |    327.1903ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906255&nonce=2ef2b155ad0685dc0a7ee62775e6183c&sign=d7e2dfd1b2c402f9c51b1f8797597960"
+[GIN] 2024/04/12 - 15:17:34 | 200 |    197.3078ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712906255&nonce=fe62b8201f7c1f5838616d8f2f459eca&sign=6c4c3d6dce4219c164e582e9373d1fbb"
+[GIN] 2024/04/12 - 15:17:37 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906258&nonce=4f44679034bc9587a6ea35cf90ec7fc7&sign=c1902cedcb0900ab5e5e661c1cad50b5"
+[GIN] 2024/04/12 - 15:17:38 | 200 |    370.4078ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906259&nonce=fa16798756b0a60c1125a2b409052a89&sign=3a4e37487c553b16b1c354e559ce53b2"
+[GIN] 2024/04/12 - 15:17:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906262&nonce=e7c4123e8b5d49ace7555baa10d023f0&sign=c74dcfcd11b768953b75285a80565336"
+[GIN] 2024/04/12 - 15:18:19 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906301&nonce=989d32437cae57571e48b1f9129b47d3&sign=b32d0e31e12f8579391e4c4f9e65528e"
+[GIN] 2024/04/12 - 15:18:21 | 200 |    116.4951ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906302&nonce=19126fd826d571cae156b99b392577c2&sign=e9690e427e3e99fb775ffa09b92953bb"
+[GIN] 2024/04/12 - 15:18:22 | 200 |    131.7678ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906303&nonce=6f71f89b74d8abd0b4fae4cb3ba95cb4&sign=e26c7c49be219ceab4f121994748cf29"
+[GIN] 2024/04/12 - 15:18:23 | 200 |    120.4553ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906304&nonce=f732c69aef91cfe316901bb5283691e5&sign=ba1351240693149507c1092c7df12d67"
+[GIN] 2024/04/12 - 15:18:23 | 200 |    232.2652ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906305&nonce=a506badf28b8454084fd593bc34f7d7d&sign=40133d08bd0c3641b7e984db2cf72d05"
+[GIN] 2024/04/12 - 15:18:24 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906306&nonce=8cc9db6bb2e3dc304d12115c51d0080d&sign=df7e135720bd75f27f42ab81d6381b7c"
+[GIN] 2024/04/12 - 15:18:25 | 200 |    118.5101ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906306&nonce=d913fac40f11978102b0f8d9d7ea68f7&sign=db07a158d8553b0cad0ceee3dd0f5cbb"
+[GIN] 2024/04/12 - 15:18:26 | 200 |     160.749ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906307&nonce=476adff4bef410e16a6a6794a83fe0ca&sign=12199992ad4c40eb9d77f70632f768ec"
+[GIN] 2024/04/12 - 15:18:26 | 200 |    184.8818ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906308&nonce=f77a3e707f90a2b029fd52ffdeb17134&sign=25048da892be270b86289407b81b3520"
+[GIN] 2024/04/12 - 15:18:27 | 200 |    281.1552ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906308&nonce=32f78619e0eac62dd6972cfd2e962070&sign=4b98063edf3aee6f38ea60e04b9d7543"
+[GIN] 2024/04/12 - 15:18:27 | 200 |    157.7168ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906309&nonce=d3922f99f77afc7f21e9f18275c47399&sign=3968d80d0d0cf74338433b1847577987"
+[GIN] 2024/04/12 - 15:18:28 | 200 |    371.1897ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906309&nonce=2c406abccdf877c4c4ceac634b29df28&sign=1c36014791de694588f68437b7c4506e"
+[GIN] 2024/04/12 - 15:18:29 | 200 |    307.4191ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906310&nonce=240adcd68dbcbbcf77fa7c1dafeb7415&sign=9aa6e71b72f41be0652e9da110e80470"
+[GIN] 2024/04/12 - 15:18:30 | 200 |     1.131905s |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906310&nonce=e9784dd30420d6115ad96e27bd21afec&sign=0f02f001ef043960f7e9c0d20554d919"
+[GIN] 2024/04/12 - 15:18:30 | 200 |     134.087ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906312&nonce=457d5adaefff82055e59cd09800ee83c&sign=c22b5fc991a01a792db53dbeb99b4971"
+[GIN] 2024/04/12 - 15:18:31 | 200 |     117.036ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906312&nonce=bdad4cab336006c126ba3ce1f67ca67c&sign=5ea3cf0dd5063725a619888759987e1c"
+[GIN] 2024/04/12 - 15:18:31 | 200 |    115.0438ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906313&nonce=711d3cf0c2b5e09777aa4678365a7794&sign=b30ddb788b12447f32e13db8f395a78b"
+[GIN] 2024/04/12 - 15:18:32 | 200 |    168.9805ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906314&nonce=bb160fabdebd8d86a696eb09f81850eb&sign=248b2f7e9a9403550feeee916e1bdee5"
+[GIN] 2024/04/12 - 15:18:33 | 200 |    118.6511ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906314&nonce=0f3657217c6a9a2a8cc6accaf2db05ad&sign=641e7fc48140b4658ddf910030af021b"
+[GIN] 2024/04/12 - 15:18:33 | 200 |    130.1647ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906315&nonce=140757608a2e0dd62e4b3251e1c8a7b0&sign=fcdeced05b13b56eae4ad2dc8c07335b"
+[GIN] 2024/04/12 - 15:18:34 | 200 |    126.5797ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906315&nonce=46d0e8d73bd01415a5ca7776f18550ba&sign=d2df5a1bd946d4e28486faebd77303cd"
+[GIN] 2024/04/12 - 15:18:34 | 200 |    131.7584ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906315&nonce=01962753d26d17f0c413b977d2958737&sign=b006accbd8d014f75b438c373fce57d4"
+[GIN] 2024/04/12 - 15:18:35 | 200 |    407.2087ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906316&nonce=601378167382e5c281d2116cee6c7ad6&sign=445cdaf24d8ae17df83462307adb5551"
+[GIN] 2024/04/12 - 15:18:35 | 200 |    481.8442ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906316&nonce=94cabd0ee2b3c9ee051d3f2696415b8a&sign=e427480d6639acd9c9b9a26912f3cfba"
+[GIN] 2024/04/12 - 15:18:36 | 200 |    136.8524ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906317&nonce=749d3afb1898d69291a7cdaaf81d5625&sign=7026f45fb862ea1bc414a634e8491b07"
+[GIN] 2024/04/12 - 15:18:36 | 200 |    225.0811ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906317&nonce=35e7065a805b72e47c9013bd7dbe5ab7&sign=babb043d3166925b665238b91a9e2023"
+[GIN] 2024/04/12 - 15:18:37 | 200 |    202.1729ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906318&nonce=15e770c6eae5b399730c6ca3a5999163&sign=149dbdfb718ccb2c5f90398cb7c2f4fb"
+[GIN] 2024/04/12 - 15:18:37 | 200 |    169.4636ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906319&nonce=77a1ee8958ea82c510428d700c6b17fe&sign=850613ca918dc6d179168878a11fa3c7"
+[GIN] 2024/04/12 - 15:18:38 | 200 |    267.8689ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906319&nonce=b2f4933c867116805908256a7f403dff&sign=7f83e96437e3352bb67d27c6c4a3b85b"
+[GIN] 2024/04/12 - 15:18:39 | 200 |    335.3144ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906320&nonce=6f82c85375cacd2771cbdeea2956111a&sign=4325f35bd59ec9f27e8d5f4d83520266"
+[GIN] 2024/04/12 - 15:18:39 | 200 |    174.6137ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906321&nonce=1d0fdcc111ecf388dae3d5bc5fd2988b&sign=5b953d982361efd3b61be65acfaf5c46"
+[GIN] 2024/04/12 - 15:19:05 | 200 |     98.3001ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712906346&nonce=d82e58e4e33b700e2022af09538d8595&sign=110902050206bdc9bbfe953bb7e68e91"
+[GIN] 2024/04/12 - 15:19:07 | 200 |     286.208ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906348&nonce=27d7400192145c345b81dc29bd0e2815&sign=405f0cd69ad68d9d1106751a35b40deb"
+[GIN] 2024/04/12 - 15:19:08 | 200 |     319.277ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712906349&nonce=fc78946edb5c67ab7eddf1aad3bd8592&sign=3698cc7e304c0c59ad676e779e92e34a"
+[GIN] 2024/04/12 - 15:19:09 | 200 |    369.8719ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712906350&nonce=7fc699118ef6e10d52fb3c0622cb54f4&sign=72bac59deb1a197d29a2c03805993234"
+[GIN] 2024/04/12 - 15:19:10 | 200 |    222.9483ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712906351&nonce=05635c7e79064d4fa65b54d833800895&sign=2de061f1c2761d1e5ac3e13a01fa9daa"
+[GIN] 2024/04/12 - 15:19:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906353&nonce=607b7e34ed72253298475e494e690546&sign=a3d96f3cb5fd5a753f8a93848db4498a"
+[GIN] 2024/04/12 - 15:19:13 | 200 |    265.3017ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906355&nonce=05f4f7a33afb925a2fedb7a6a9d57411&sign=f5fbf91669e605bdad3067411ee75d42"
+[GIN] 2024/04/12 - 15:19:15 | 200 |    135.4915ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906356&nonce=3574d6dd4b030a86b8aae7893aef97f5&sign=07c97087f2f53a8453fd1642fbd42734"
+[GIN] 2024/04/12 - 15:19:16 | 200 |    115.3122ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906357&nonce=f213b6eac5be7a7c1f1bcb89d427a0a0&sign=cd10414ab4c840efd9f2ab2d4d6f7302"
+[GIN] 2024/04/12 - 15:19:16 | 200 |    190.6559ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906358&nonce=558e98329b38218995d24ae6ba799095&sign=9bdb3ce6f98a84bd614dab0105854b8e"
+[GIN] 2024/04/12 - 15:19:17 | 200 |    283.3401ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712906358&nonce=53d1235e3fc5dbb5aa8da1b88587ed2f&sign=092095918b367dea172525f5d12fd45b"
+[GIN] 2024/04/12 - 15:19:18 | 200 |    216.8743ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712906359&nonce=0e3f6f89c880c32b78a1cf4c9b9cdd08&sign=f36aa87fe7059fdc5daf451d00f502b6"
+[GIN] 2024/04/12 - 15:19:18 | 200 |    199.3833ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906359&nonce=6a23e6c2a2f008da1fa820990fc899d6&sign=c9c3c495fe28577ae6ceee95a150ebee"
+[GIN] 2024/04/12 - 15:19:19 | 200 |     345.118ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906360&nonce=b027d78cb8cd293f22fd864fbd2c76ec&sign=5800cedba5af6d8835825f2350db6d29"
+[GIN] 2024/04/12 - 15:19:20 | 200 |    225.4113ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906361&nonce=7b068ba9de93a0173388f1171beeced9&sign=6a24dee40aaf6d229f25f644a4620823"
+[GIN] 2024/04/12 - 15:19:20 | 200 |    109.1464ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906362&nonce=b74a3f727b5a82dce998103077444210&sign=8b24c4ca7e8abe2db23c6e29d2f2bb65"
+[GIN] 2024/04/12 - 15:19:21 | 200 |    166.3316ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712906363&nonce=c59da916ee92da6ebb7f78831558eb8e&sign=60d7d0d5a377e6f2a698c547a0dd3a29"
+[GIN] 2024/04/12 - 15:19:22 | 200 |    180.1183ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712906363&nonce=8fc85196d56080cea321b0d10f418611&sign=a02ce91716acb9c6375f3c6b990a8bdc"
+[GIN] 2024/04/12 - 15:19:23 | 200 |    119.9584ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712906364&nonce=c7fd68249e0def8b6107b5e576f13e44&sign=a42fc5c3af8767bfd12341fc99a77812"
+[GIN] 2024/04/12 - 15:19:23 | 200 |    268.7711ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906365&nonce=95634502b861567b8bdece3f90d2adcd&sign=352f0cb1702ff46272140889ea541000"
+[GIN] 2024/04/12 - 15:19:24 | 200 |    119.2715ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906365&nonce=30b4702322ce774b5ef8c039cf11fd02&sign=97745b5efcf95cd041475540d3b25c1c"
+[GIN] 2024/04/12 - 15:19:25 | 200 |    299.9161ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906366&nonce=94624f11794fdc6b71afe4bc87101e35&sign=428bec8b8d87cd1777da9ecc61ee0a85"
+[GIN] 2024/04/12 - 15:19:25 | 200 |    215.5382ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906366&nonce=c6b7f32465b11de9924bb85c5e25dd59&sign=1a32e76e629f78bea46fc643b2e5a7ec"
+[GIN] 2024/04/12 - 15:19:26 | 200 |     206.759ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906367&nonce=93b37c42c370d209ecc97d119292db0e&sign=8b81eac9c2ac47a6f6ddab01d251330a"
+[GIN] 2024/04/12 - 15:19:26 | 200 |    110.1643ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906367&nonce=5ded49b7533dd273dc2dfbd6d6c210da&sign=66514fdbaf66a24b1cbc91183c08839d"
+[GIN] 2024/04/12 - 15:19:27 | 200 |    125.6224ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906368&nonce=cb70ea4342adb77e228e3d361f11a1b8&sign=a41e3e0926167908db94144583f68595"
+[GIN] 2024/04/12 - 15:19:27 | 200 |    255.1126ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906368&nonce=d3be70b3a08259e54f786f77c02b1e0c&sign=6996e6f909f24c2db7f38f9f0a5c3f55"
+[GIN] 2024/04/12 - 15:19:28 | 200 |    135.1736ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906369&nonce=4b7e7bdee4b26d6696ff317117c22bfb&sign=fbf73e09dc2420512b2b47ecc954f599"
+[GIN] 2024/04/12 - 15:19:28 | 200 |    252.1063ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906369&nonce=03814fce248f104585d0fa3c40e69c22&sign=bd6b4b773c8aba4f9c311b2060761d3f"
+[GIN] 2024/04/12 - 15:19:29 | 200 |    318.9625ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906370&nonce=60b8677d0e8e71d68c7f3668d4ef35cf&sign=39ba680c2c95ab81062d1056484b61fd"
+[GIN] 2024/04/12 - 15:19:29 | 200 |    234.7492ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712906370&nonce=8b5f9a5c61576824a0f3c150dbf721e3&sign=d85bc6608b9c518c27b0ba7d22d7b50c"
+[GIN] 2024/04/12 - 15:19:31 | 200 |    201.5885ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712906372&nonce=750b4fea5ac97129edb146050a2eed05&sign=6d00744139f2ba69658edf67d582df83"
+[GIN] 2024/04/12 - 15:19:31 | 200 |    106.0015ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712906373&nonce=767cae58a5ef151c87d9b1bb9028fb2f&sign=920ae20a33d512a9690446500eedde7d"
+[GIN] 2024/04/12 - 15:19:32 | 200 |    164.0262ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906373&nonce=c5955be91d4e8d30ea454098b11936cb&sign=3fec0d7c49bcb3c7292cd84ef67c2d86"
+[GIN] 2024/04/12 - 15:19:33 | 200 |    164.7527ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906374&nonce=98edb6381fa5dfd25aa8550321118745&sign=c37c349364dbb6a317b8ca4ec98d9736"
+[GIN] 2024/04/12 - 15:19:33 | 200 |    288.8683ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906374&nonce=ada58a717ae5c0d1dd43f79891265c6c&sign=f2d38a39877fd99915f3187799296202"
+[GIN] 2024/04/12 - 15:19:34 | 200 |    140.2273ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906375&nonce=5b67c71c9808b518a18feac38e86c7fd&sign=f305b394ad716438ddb55612507247a2"
+[GIN] 2024/04/12 - 15:19:35 | 200 |    187.4926ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906376&nonce=32057edf5596c82e2e30033291915447&sign=ca9a6d93159e72e28ad77ad82bd13e6d"
+[GIN] 2024/04/12 - 15:19:35 | 200 |    120.0594ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906376&nonce=289ad84325818c826b220735ed1e8319&sign=7848d0894faecbcb8d091d6bbc36298e"
+[GIN] 2024/04/12 - 15:19:36 | 200 |    327.8592ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906377&nonce=f559cd7f47dfa130dd9031d61b956430&sign=c85ccf67ece1f3aec76d18d3aa2193b0"
+[GIN] 2024/04/12 - 15:19:36 | 200 |    260.9453ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906378&nonce=e509c89308f6d921c67739f6f2d8cb6c&sign=236b90b466002193dc9098b8bc60725b"
+[GIN] 2024/04/12 - 15:20:34 | 200 |    213.6533ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906436&nonce=0ef1c0ceb1fd7b78b456da2abbc58dbb&sign=8ac8ee8f0c683deba95e9e35a73727ed"
+[GIN] 2024/04/12 - 15:20:36 | 200 |     138.908ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906437&nonce=7e7e595e10e3844e3839d90a80d6bf2e&sign=ee9b69279580f1f979bc6568b38e9b16"
+[GIN] 2024/04/12 - 15:20:37 | 200 |    285.4541ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906438&nonce=82328384c2a683674a49a1ab883d497c&sign=6c5b9885eefb49d69f69bc0b8b80db11"
+[GIN] 2024/04/12 - 15:20:38 | 200 |    200.9995ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906439&nonce=759754362760b5242b69f00c89be2170&sign=bbeb7aa6b40b93bb371f3aeb292b4168"
+[GIN] 2024/04/12 - 15:20:39 | 200 |    248.5394ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906440&nonce=548ff34819cb6c2dd94aa088506756ad&sign=5113b4816f5cddd2c47927cf72b6d55b"
+[GIN] 2024/04/12 - 15:20:40 | 200 |    318.9196ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906441&nonce=99ac503ed83b36ebc91970caeb71ab1e&sign=7b227476d83b5d6346e1903ac5eb9989"
+[GIN] 2024/04/12 - 15:20:40 | 200 |    200.9056ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906441&nonce=731029a585ec33531d9abe5e65326564&sign=eb81df08e6943a5bfba01bce775f6e7f"
+[GIN] 2024/04/12 - 15:20:42 | 200 |    802.1557ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906442&nonce=092f3ef775051355be704b1b4c2fab3b&sign=1677002c2b20be897e696d772092fde1"
+[GIN] 2024/04/12 - 15:20:43 | 200 |    200.8148ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906444&nonce=ad872c771b706ba074777fc66bf0c716&sign=7aad449c105e5885fad0e36238185d92"
+[GIN] 2024/04/12 - 15:20:44 | 200 |    180.9586ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906445&nonce=f8cb0613a8718e56191a7a7c39334e66&sign=aacb8a8f0ac8bedcf826537bdec47804"
+[GIN] 2024/04/12 - 15:20:44 | 200 |     177.337ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906446&nonce=114c5f04143d98d3b02e8180930b808e&sign=e0bc473a0e344ca21725150e71f7dfbe"
+[GIN] 2024/04/12 - 15:20:45 | 200 |    157.2675ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712906447&nonce=43cb273b4f1f435e685272f22cae7841&sign=034a27638057e4a53dddc3a8ca7cf27b"
+[GIN] 2024/04/12 - 15:20:46 | 200 |    139.8187ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712906448&nonce=3a9492c535011e3e82f820083ec17818&sign=8fd2a6e74e85276afa042da6d52e0b5a"
+[GIN] 2024/04/12 - 15:20:48 | 200 |     656.286ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906449&nonce=e54661be84a78971d3dd1483d827ab32&sign=993f854aeb36db46d4688c82c5e710d1"
+[GIN] 2024/04/12 - 15:20:49 | 200 |    338.3383ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906451&nonce=8e10b504a5658956aef0e77e43c7a8c9&sign=05b305304fc7c7d42aaf8bce1ce17bd5"
+[GIN] 2024/04/12 - 15:20:50 | 200 |    216.1715ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906452&nonce=1502c23dbe60bc6a4ef6cb2ef7d2a144&sign=5c83e1582c98fa540d9281b23a3cf1cd"
+[GIN] 2024/04/12 - 15:20:51 | 200 |    231.0608ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712906453&nonce=9d5f5ef543901d95de5978859bbf39f7&sign=31ca01776564643640bb5639003f0457"
+[GIN] 2024/04/12 - 15:20:52 | 200 |    126.3198ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712906453&nonce=c09ccba1b177bd11381546df67c76c07&sign=4e7e269ad08ed0cb36dae6388f3c7b86"
+[GIN] 2024/04/12 - 15:20:53 | 200 |    351.8397ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712906454&nonce=93691422e79fe8188f5b7aeac0144e5e&sign=971142a7708bc054d3a4bfc176a62fbd"
+[GIN] 2024/04/12 - 15:20:54 | 200 |    288.4094ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿拉德之怒【手游】&adminid=admin&ti=1712906455&nonce=b0d51f96957f0487855e3f9a376f1167&sign=5dadb9530135cea03f7bff331a8beb7f"
+[GIN] 2024/04/12 - 15:20:54 | 200 |    180.4983ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906456&nonce=b6bdccb61819b54ae89c55bd0d07a47d&sign=ec93b1450e1e7e798e0c31fea22370c2"
+[GIN] 2024/04/12 - 15:20:56 | 200 |    131.3099ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712906457&nonce=dca59943a7475369be3ff064600bba02&sign=f6440f316ed47846321b5eb0bf7c3c85"
+[GIN] 2024/04/12 - 15:20:56 | 200 |    176.2343ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906458&nonce=ad48f0139c847678a620a955591cfa96&sign=fa2ec654c7cdee8f1541b57a115b91c7"
+[GIN] 2024/04/12 - 15:20:58 | 200 |    594.0822ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906459&nonce=e9f1e05bdb40da11785eda0e7053f423&sign=b677b74d9a539371cc685fc9eb03770c"
+[GIN] 2024/04/12 - 15:21:00 | 200 |    662.8816ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906460&nonce=f1d46e1672d3773b8cab13612ee38564&sign=e08dca5701960c84d20d29b3a2abdbaa"
+[GIN] 2024/04/12 - 15:22:25 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906546&nonce=96b3065e791da94b7275a1acf8f0e9bf&sign=7a94e257061b948d8c9fb42ec81dac18"
+[GIN] 2024/04/12 - 15:22:26 | 200 |    185.2527ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906547&nonce=baf6b7185b568a93953bd7ac5a939c4a&sign=b44dfaa23181e8a7203a9df1cae4f555"
+[GIN] 2024/04/12 - 15:22:27 | 200 |    249.7056ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906549&nonce=cc1d8250aa5d5d7fc8d8b67527331774&sign=cd279dd64b48309d9849ec5ffeb84774"
+[GIN] 2024/04/12 - 15:22:30 | 200 |    619.3581ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712906551&nonce=e1153b7cc328c9c4fee1e93a655922fa&sign=b6e972d48e9e7b248f51bc13f2802d7d"
+[GIN] 2024/04/12 - 15:22:34 | 200 |    191.5117ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906555&nonce=4ad01f65dd138bb1456879af7cdd2951&sign=b889ba1775d824cda33cb6eb4824411f"
+[GIN] 2024/04/12 - 15:22:36 | 200 |    130.1292ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906557&nonce=fdd93589b32fb3d570989a1f5cc5a62c&sign=f4b308bf7eb2bf7c95a6320ba3de56f8"
+[GIN] 2024/04/12 - 15:22:37 | 200 |    150.0211ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712906558&nonce=6ef699392ebb1bd8536fb759381e9ca8&sign=a927caa7f639d920a88ea10a7dea41e3"
+[GIN] 2024/04/12 - 15:22:38 | 200 |    228.8632ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712906559&nonce=3c891ec40dd4b7193bc082181a6a2008&sign=70fac84e9ce8ed279fa7a72ad9382c4f"
+[GIN] 2024/04/12 - 15:22:46 | 200 |    147.4841ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906567&nonce=248b76a9560628aad3b65a7d16f27f4f&sign=39df0cdad7b5403f7c73237edc23ff59"
+[GIN] 2024/04/12 - 15:22:52 | 200 |    284.3887ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712906573&nonce=0fbd727fbf047bc5f045e94fb8f53c32&sign=b97bca698b9617001753b0e0cb2c961e"
+[GIN] 2024/04/12 - 15:23:04 | 200 |    145.4653ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712906585&nonce=6b5b1b4cc23be8299bb0395976c7f243&sign=ff8778ee117ae606552a2a883eb32ffc"
+[GIN] 2024/04/12 - 15:23:04 | 200 |    183.8394ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906586&nonce=c084de87cdd1002514031b85a1d99671&sign=7a1bf10de9634b5c02a42ab08ac09fe3"
+[GIN] 2024/04/12 - 15:23:06 | 200 |    478.6075ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906587&nonce=fadd9e1af3ac65d4b4f6d4db26ff56df&sign=1fe395057498eacfaabfed9481580d22"
+[GIN] 2024/04/12 - 15:23:07 | 200 |     290.765ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906588&nonce=72a30d5ea41ec8904f61740b997fff58&sign=c94b68d5dca8322140d3a800ef797902"
+[GIN] 2024/04/12 - 15:23:08 | 200 |    125.5934ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906589&nonce=27c19006ac84696d5342859aa96b0f63&sign=2d5edc4e05122bd6aca8dcdb3b235c8c"
+[GIN] 2024/04/12 - 15:23:08 | 200 |    282.6274ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906590&nonce=1d38ea6d5c18af8465064ebe5c0303f0&sign=b03b6e94db78658346bb02e5c05743a1"
+[GIN] 2024/04/12 - 15:23:10 | 200 |    331.2932ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712906591&nonce=d296df560433180c0e7b782825111952&sign=330b334ecde060f8653310da599ef595"
+[GIN] 2024/04/12 - 15:23:15 | 200 |    160.2001ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712906597&nonce=3f79b3b8ea4c8b6ee55fd9be5a82e8e0&sign=2f21a5b16345b58ae5e4f8affa77144b"
+[GIN] 2024/04/12 - 15:23:16 | 200 |    131.3888ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906598&nonce=1291402c8277da7d42d28abce3ee77db&sign=d0c10cedd1eb5942c210392a65cb80fa"
+[GIN] 2024/04/12 - 15:23:17 | 200 |    405.6069ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712906598&nonce=9079a33cfd6c976f511a7be4c8a06896&sign=ac4e5fb5bcf6ed300e154817b0512c74"
+[GIN] 2024/04/12 - 15:23:19 | 200 |    1.4374519s |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906599&nonce=072a1b1dc71973e9efc305087b4d17a1&sign=b0c7702c170d54c624d279f0be856516"
+[GIN] 2024/04/12 - 15:23:22 | 200 |    125.4657ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712906603&nonce=48197d0879e2b34cc0a001a6a28161aa&sign=3fa87e6e2fe081a845b962cde873b093"
+[GIN] 2024/04/12 - 15:23:27 | 200 |    155.0925ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712906609&nonce=32061740b571971b708fa2806aeb6fed&sign=23233722d05d7805f8b9cdc23be7a1aa"
+[GIN] 2024/04/12 - 15:23:29 | 200 |     213.349ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712906610&nonce=cfd7d91976f43e6b0266d5923b8cf48b&sign=28b258559363abee904518a0145de69e"
+[GIN] 2024/04/12 - 15:23:33 | 200 |      137.08ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712906614&nonce=a2f7ce30662ace92aa65fc56e93d12f4&sign=051ce8d92d40882824c2fd96e32e9449"
+[GIN] 2024/04/12 - 15:23:35 | 200 |    170.5061ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712906617&nonce=5d0f32a77157e6e684647986a304d598&sign=ce7ce6dd7181f1184fde848503e20dbb"
+[GIN] 2024/04/12 - 15:23:39 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906620&nonce=3104e2d0631b9f237ba5b87997ca9e9a&sign=89557c69db086a2f0a9652be741355f6"
+[GIN] 2024/04/12 - 15:25:46 | 200 |    322.7255ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712906747&nonce=c4663178629fbd9eeb5788d79af46135&sign=2589b9fd1149a4fddf21def4921f404a"
+[GIN] 2024/04/12 - 15:25:49 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/12 - 15:26:34 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712906795&nonce=0153aada090e882294659cec9c5c7a56&sign=ce93a40619da7333262a4e561a1eb069"
+[GIN] 2024/04/12 - 15:33:00 | 200 |    158.8076ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712907181&nonce=ffd5bee815bf1d34860afbecb1267bf1&sign=3a78c4807bb5be5347f1c69d418316f5"
+[GIN] 2024/04/12 - 15:33:02 | 200 |    224.1578ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712907183&nonce=349a8f1b07973324e22a8d354cc769da&sign=da4e1b0908682c8749d074d9efe21a7c"
+[GIN] 2024/04/12 - 15:33:03 | 200 |    252.5035ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712907184&nonce=f861ffee99fda89a188f4b54fafcfb74&sign=5ea2733eb4512962ff5e3b7673463b9f"
+[GIN] 2024/04/12 - 15:33:09 | 200 |    139.3371ms |  192.168.18.177 | GET      "/api/GetGameCity?game=王者荣耀【手游】&adminid=admin&ti=1712907190&nonce=77363c61998a48b098d9ba10abbaf7a0&sign=2d2621d840130c7fb6a9859c3fa5fedb"
+[GIN] 2024/04/12 - 15:33:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712907193&nonce=35e6bec59bf36e6ec963e9dfb1b6f557&sign=5e4670f28b7dce62130afa3522d3243b"
+[GIN] 2024/04/12 - 15:33:38 | 200 |    176.0815ms |  192.168.18.177 | GET      "/api/GetGameCity?game=王者荣耀【手游】&adminid=admin&ti=1712907219&nonce=744b9583152c79a63a2ce846d869fe43&sign=68bd1b6f32c0687937bf3a15f52cf9ee"
+[GIN] 2024/04/12 - 15:33:39 | 200 |    179.0642ms |  192.168.18.177 | GET      "/api/GetGameCity?game=天龙八部荣耀版【手游】&adminid=admin&ti=1712907221&nonce=c3653522be5ff6ceb83841457552211f&sign=993d02570abe1927f3b5d4151907b846"
+[GIN] 2024/04/12 - 15:33:40 | 200 |    203.6492ms |  192.168.18.177 | GET      "/api/GetGameCity?game=荣耀大天使【手游】&adminid=admin&ti=1712907222&nonce=b7250e8eca227c64b186af9674e6db9b&sign=8b0a0f827d30a85ac00c82ff8f42b15d"
+[GIN] 2024/04/12 - 15:33:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712907223&nonce=8a0c6837333181e5349b1513f7399fa8&sign=76d74972e35780b967a9f5862f0da41f"
+[GIN] 2024/04/12 - 15:36:11 | 200 |    3.1719498s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712907369&nonce=4bd50e4e28a260a7af467de071827667&sign=7fae21229c1caa61fb0606a590c041a5"
+[GIN] 2024/04/12 - 15:36:11 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712907373&nonce=9b9dd9dcfc4a0b8cbc0578825b7e8983&sign=f40f1f9430ab3077f72bba4c382670c7"
+[GIN] 2024/04/12 - 15:36:12 | 200 |    125.1807ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712907373&nonce=db41c0245959337bc06fcb0f6d8b45bc&sign=90b088b61617dd883e07c65c7c14a659"
+[GIN] 2024/04/12 - 15:36:13 | 200 |    155.0311ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712907374&nonce=3206dfaa3a5d3b9c0a50b849142a4d7b&sign=b904512dcb1a971e7dd3ee2e0db91c3d"
+[GIN] 2024/04/12 - 15:36:29 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712907390&nonce=a9b481f81bd6b5d62e7fb3eb2380c482&sign=3dd7619ebe3e653cfaa1b02c6d23cada"
+[GIN] 2024/04/12 - 15:36:35 | 200 |    244.3559ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712907397&nonce=f89a58ae669a142c1f5532ffd287e344&sign=7966a369dcbe543f3664adfab426ddee"
+[GIN] 2024/04/12 - 15:36:39 | 200 |    488.7192ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712907400&nonce=81983188fdf7a5ba4f5baecd76e8b191&sign=5b8176671ce97249b6667e2bd16d6e8a"
+[GIN] 2024/04/12 - 15:58:54 | 200 |    313.7825ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712908736&nonce=9b94b0465531e5b1985ac5cf0767f8ad&sign=4eadb463e0b4926e8359eb09aa6ba19b"
+[GIN] 2024/04/12 - 15:58:56 | 200 |    241.3341ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712908738&nonce=75fe202e73dd7163862c4cd84af0a5d1&sign=3579d2037d129872860298ed9632d26f"
+[GIN] 2024/04/12 - 15:58:58 | 200 |    121.2155ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712908739&nonce=6f1eca946e310055a8cb260ba9091c87&sign=fc86f592296e5f5a022f884a06640fa6"
+[GIN] 2024/04/12 - 15:58:59 | 200 |    228.9997ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712908740&nonce=019e54fba3fe8bacee16f9731e4f7d78&sign=445825d2ea002a2adbbcccba4044d973"
+[GIN] 2024/04/12 - 15:58:59 | 200 |    214.2684ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712908741&nonce=6a52150acc33085da2eb3a0a5aa31f93&sign=97dd752fc866e030717d37966b845f18"
+[GIN] 2024/04/12 - 15:59:00 | 200 |    117.8166ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712908741&nonce=f8e0e01d70bacd3a9fec3b681cdebd14&sign=16411b0d8861a70a14fd68b70fe8f44d"
+[GIN] 2024/04/12 - 15:59:01 | 200 |    162.5731ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712908742&nonce=d6516b7c454c023b4b06d75dd417ff51&sign=e3ecd5a4ace9283be15775583a634131"
+[GIN] 2024/04/12 - 15:59:01 | 200 |    134.5568ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712908743&nonce=504b0c1040fa72dc05c47beb24c4771d&sign=f5d6c03547d5d0dd76677e6d7e0ab9ed"
+[GIN] 2024/04/12 - 15:59:02 | 200 |    336.5898ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712908743&nonce=7c59a1f5a47ca8e6782180e09c65f264&sign=f7d063fde9e4272f28d04861b650110c"
+[GIN] 2024/04/12 - 15:59:03 | 200 |    279.2928ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712908744&nonce=c0e3b54c24f5607d3e397b02f26cc4f6&sign=46f3d82f1d2437217078305eb0686352"
+[GIN] 2024/04/12 - 15:59:04 | 200 |    677.7181ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712908745&nonce=37f0eb440e5af14f072653fdd215a68a&sign=c53afe89095f58366ae30e8d4b3770e6"
+[GIN] 2024/04/12 - 15:59:05 | 200 |    225.8331ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712908746&nonce=47aa6292f4995b7c29eadb69493c94b1&sign=bef0f79b0402793bc9a43ae3c47a8692"
+[GIN] 2024/04/12 - 15:59:05 | 200 |    123.1698ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712908746&nonce=41a348861b164ff4c472da2ef6f7d254&sign=e4a1f96c99f2047312af9d93062592b2"
+[GIN] 2024/04/12 - 15:59:06 | 200 |    177.5412ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712908747&nonce=cac36405478b3891bfec64bfbd00a7e4&sign=59c97fb38095f85689b7093b991427d6"
+[GIN] 2024/04/12 - 15:59:07 | 200 |    441.2719ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712908748&nonce=164aae83695a2b11e1c2679b8392e2e1&sign=ce3b54fdec6741dd7767ea2cb4a4ac05"
+[GIN] 2024/04/12 - 15:59:11 | 200 |    115.9942ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712908752&nonce=d30401ec8badf6c79df46fd83deb7a7e&sign=88665385a8fa6d2ef3ed181118d435f0"
+[GIN] 2024/04/12 - 15:59:12 | 200 |    333.9676ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712908753&nonce=d5ddff1b8432a8477230f963188197c1&sign=915d05b38ce88da57231f05e440a1319"
+[GIN] 2024/04/12 - 15:59:14 | 200 |    1.3090574s |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712908754&nonce=572feb2abd7deabea2594047c369487c&sign=8589d0f0639f424de91a83f37a445221"
+[GIN] 2024/04/12 - 15:59:15 | 200 |    219.7147ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712908757&nonce=09b1e96553ac7a59113d2e12a1df1ac0&sign=ba4b965a4f80bfaaa00d6303c395058e"
+[GIN] 2024/04/12 - 15:59:18 | 200 |    1.0271435s |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712908758&nonce=e8507bc58cb02582b7a52fe44a687441&sign=cd2d4dd6825d0f617efd9c71e519f136"
+[GIN] 2024/04/12 - 15:59:19 | 200 |     283.951ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712908760&nonce=c4ff1610b63ba3cd995370b37ea2c7d6&sign=2430d35bde69293a801d2978022c1e9b"
+[GIN] 2024/04/12 - 15:59:20 | 200 |    136.1407ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712908761&nonce=0eab14740c9c987bb7dc476d84595dbf&sign=2deba64ff49395ead7b3058a53f19bcf"
+[GIN] 2024/04/12 - 15:59:21 | 200 |    198.8952ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712908762&nonce=72a75b5264f0c4a880d2a2e03ec4db21&sign=11edbe63eb7493faac8e50ba350c2506"
+[GIN] 2024/04/12 - 15:59:22 | 200 |    218.1141ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712908763&nonce=32103dbcddcc252cfc2dac5438b5e49e&sign=62ec11898cfb10dadf73487db38f1347"
+[GIN] 2024/04/12 - 15:59:22 | 200 |    172.9732ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712908763&nonce=f752fc7cd4e7a3e3c1537cc49ec30c02&sign=deb4bd9258307d9bcaa207e38bf64e87"
+[GIN] 2024/04/12 - 15:59:23 | 200 |    855.7475ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712908764&nonce=db5f9e063b6259ee7b70d1fcc6e1bf08&sign=034b3c01fee8b59189028653ad6d721d"
+[GIN] 2024/04/12 - 15:59:26 | 200 |     254.824ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712908767&nonce=e6efbec962f19ecbd2fc05129b0ade03&sign=87346e07bccaf44fd9afc06f7bcf05e9"
+[GIN] 2024/04/12 - 15:59:28 | 200 |    485.1794ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712908769&nonce=3b8394c5512fb206beb46d6c99feb328&sign=0b71549aae583fede08d7150dce90d03"
+[GIN] 2024/04/12 - 16:14:47 | 200 |    424.8869ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909688&nonce=d098e9933aa6c56356459311588ce078&sign=46d8ed1d07bda55a0d76325b76601ae5"
+[GIN] 2024/04/12 - 16:14:52 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909693&nonce=5cbb1169891edd8bd4f83bd821134020&sign=dd3290bdb6482be36d32dd5301b84239"
+[GIN] 2024/04/12 - 16:14:53 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909695&nonce=21b42f52f7b3a16d98f483031db3d688&sign=ea1b2af9387ed91889aad803e07268d0"
+[GIN] 2024/04/12 - 16:14:54 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909695&nonce=9cf0ab742bf703ae9f72cb811794e177&sign=b876b99e9f02c086b5eae8ff265a5adf"
+[GIN] 2024/04/12 - 16:14:55 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909696&nonce=e5c2a139a94b976a5437ac4b84b0ce9b&sign=a2024453a46ac501c558ebe02f382b8d"
+[GIN] 2024/04/12 - 16:14:56 | 200 |    246.9534ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712909697&nonce=311efd3a3907a41b6f00b866e41f2046&sign=1cacf1ddb89e41955f1b8f3bb705f509"
+[GIN] 2024/04/12 - 16:14:58 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712909699&nonce=4dfd2e7c6a11c0bcc19ce7b7b72a1efa&sign=7aaf2c636f3ac805d86930deb78f941b"
+[GIN] 2024/04/12 - 16:44:33 | 200 |    110.4862ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911475&nonce=d9282555245c6cdc55bf009663eee3a6&sign=8179f0b51863b3288da2c12f89434c03"
+[GIN] 2024/04/12 - 16:44:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911482&nonce=2ca0caceca4aca45afb77d08a3979648&sign=f76e86b034c67e16a467e73fec5f3266"
+[GIN] 2024/04/12 - 16:45:44 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911545&nonce=61904214c32b9986aac7ba3893313050&sign=2523ce23ee9a82dd8d4573a06bfb8e51"
+[GIN] 2024/04/12 - 16:45:48 | 200 |    165.3704ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712911550&nonce=0816109eac4eab35edabf313aa4f5289&sign=24fc183e8c687f92005d1e27b710b207"
+[GIN] 2024/04/12 - 16:45:50 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911552&nonce=5a2784aae9bdcb4d52f9c73595cdc4ba&sign=c14d82c4a7f451a091306090fbdb4251"
+[GIN] 2024/04/12 - 16:46:23 | 200 |       520.1µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911584&nonce=1ed19aa3e09ea4962cd54e0f95695c4d&sign=44abe0fa99d4e95cdd338b6f1e6acb53"
+[GIN] 2024/04/12 - 16:46:25 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911587&nonce=c46ff1fc9e9710f967a0d5cfc4cd668c&sign=f5e33e0ea2951c8cccc2aebc8bb2029f"
+[GIN] 2024/04/12 - 16:46:29 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911591&nonce=66f30cdd46f051ef3e426a9cb381ca77&sign=e53c093a25920e3e2cd9472298d075eb"
+[GIN] 2024/04/12 - 16:46:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911603&nonce=9ba578711948b22527f681cdcb5d4de1&sign=50fe27f7df130232c8c38c7f32638823"
+[GIN] 2024/04/12 - 16:46:45 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911606&nonce=b4d92e0ab284fa1ae53e3a12c1ac652d&sign=619b71f1fd687f3e78d8171b501b5430"
+[GIN] 2024/04/12 - 16:46:57 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911618&nonce=54a0f4150f191087d10be0137931788e&sign=a85eb468bf14fda36c5d0b8e4f41b86a"
+[GIN] 2024/04/12 - 16:52:58 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712911980&nonce=2990f62b08749603067097860c4aaeb4&sign=48dcd555af3484039da3c185678c3978"
+[GIN] 2024/04/12 - 16:53:00 | 200 |    759.9248ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712911980&nonce=722abf4c16039a913c3812e03c79afbd&sign=fe950af2160fefd3e2138af3caefffbb"
+[GIN] 2024/04/12 - 16:53:05 | 200 |    235.4541ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712911986&nonce=936ffac4098b5377c75089c75f23e316&sign=d2076caa7d65888eea4ef80de2c4145f"
+[GIN] 2024/04/12 - 16:59:05 | 200 |    373.4403ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712912346&nonce=5c68221baf2db8e52a1b1a424e674c94&sign=74025879b7ac232ef7c28ce6b031cc4c"
+[GIN] 2024/04/12 - 16:59:13 | 200 |    126.3978ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712912355&nonce=31b8ee63a39895c20d0a602632333195&sign=0a5da327eec7efff330c950d9162895a"
+[GIN] 2024/04/12 - 16:59:21 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712912362&nonce=912bcf9bd2e7b1503d5aa787197d7265&sign=6deefb07e26f10d63937230689a1a288"
+[GIN] 2024/04/12 - 16:59:22 | 200 |    265.2187ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712912363&nonce=149ab863bda00dbd2d5bbb65956bcb0b&sign=ae3ea4ef354756e560831036ad59266e"
+[GIN] 2024/04/12 - 16:59:30 | 200 |    124.1582ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712912371&nonce=e4c1b595055bcf31ff11b95c5d860d4d&sign=c52229d70d975243384143f212d98a0a"
+[GIN] 2024/04/12 - 16:59:41 | 200 |    120.1538ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712912382&nonce=c05a6ab891bf9b5be18c8dd3051ed0c4&sign=631c931b4fefc1366a55b42c4b83358c"
+[GIN] 2024/04/12 - 16:59:53 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712912394&nonce=3c2c3b615e978c80835374c25cac3920&sign=94e7a6866bf9d692543bcf97d1042fe5"
+[GIN] 2024/04/12 - 16:59:56 | 200 |    339.2363ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712912398&nonce=18c57435ae93e8f05c2fe54303dedb68&sign=8bed2e129498839c8899cb067f0451b6"
+[GIN] 2024/04/12 - 17:00:00 | 200 |    144.0045ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712912402&nonce=7dfa53f8f3f11e29f21231a65941205c&sign=aa7952e1c3301aae1bdb81b5fcf474e4"
+[GIN] 2024/04/12 - 17:00:02 | 200 |    264.8516ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712912403&nonce=4c7f9beef89dd403077888db16a45355&sign=b9cc070544a2a2cd259e3d570f502f15"
+[GIN] 2024/04/12 - 17:00:03 | 200 |    541.8211ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712912404&nonce=21e4efcfa06a320c0f206a06296fd212&sign=de492c376b1885c6d3cf3fd4c9693088"
+[GIN] 2024/04/12 - 17:00:04 | 200 |    456.0896ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712912405&nonce=5ef4e87d65e21ccec39d9ffe115e5263&sign=0189c6b05c3137af8e2587232e720e89"
+[GIN] 2024/04/12 - 17:08:13 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712912894&nonce=ad1aa4158fcdbaad28a73cde339cd9e2&sign=59851cf28068427c28d21dec9af5bd08"
+[GIN] 2024/04/12 - 17:08:14 | 200 |    251.9744ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712912896&nonce=2b8ddd9206194cf3b9557682edba549d&sign=3f12c04d060fee5f3640200c037c3a3a"
+[GIN] 2024/04/12 - 17:08:23 | 200 |    161.0147ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712912904&nonce=038b02f3438962c2b7e79ca08ce48327&sign=da7a14fa10a4820c714eb492dc3df991"
+[GIN] 2024/04/12 - 17:17:27 | 200 |    1.5389137s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913447&nonce=ce0f0a236f9bd11b5e694ce1b5db5a75&sign=38f109358dae285ea24cc0453633f35b"
+[GIN] 2024/04/12 - 17:17:27 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913449&nonce=aee7b9e003dcd48f947292b323da38a2&sign=9dac5bd0b674e1b05f1de81098b460ea"
+[GIN] 2024/04/12 - 17:17:27 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913449&nonce=e782e5fbeb9d0973fea4e864db4c1daf&sign=b232732f06eb62a54c787259d3b77c06"
+[GIN] 2024/04/12 - 17:17:31 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913452&nonce=14faf42d92da08ccd328dfb07402b7d3&sign=781fee9800b2de4ac37beb37eb0e23b3"
+[GIN] 2024/04/12 - 17:17:34 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913456&nonce=362db9dd5a94ba14425ada8a69edddfd&sign=ca86e3e0bd0b5b31adf9095cf3a3648f"
+[GIN] 2024/04/12 - 17:17:35 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913456&nonce=7d23e4d97ac3d224f7e91d81b14b09ad&sign=d12df05742c7c05d0b9399e7bdd4866d"
+[GIN] 2024/04/12 - 17:17:53 | 200 |       525.5µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913475&nonce=965905812f8805d35df73a6c737c46cf&sign=ec72e5f9d81fe4da5a08b4d3a59f9817"
+[GIN] 2024/04/12 - 17:17:55 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913477&nonce=f352f9094f3f41ea7dc1df0bb4e34149&sign=6298d3b471e9ded4f1d2039653e153be"
+[GIN] 2024/04/12 - 17:18:00 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913482&nonce=3b512b939a64f760fd92132476951319&sign=4d1d1527f5fbb4365a7732ebaaa02bc2"
+[GIN] 2024/04/12 - 17:18:04 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712913485&nonce=cb7d6df48018bc2bb6d30e21aa2f8898&sign=4e1aaf0d06415815dff2b89cfeb40c19"
+[GIN] 2024/04/12 - 17:18:05 | 200 |    291.3976ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712913487&nonce=62e8183b4fd51e4ddfe99cfcb47873b9&sign=b48ba5170832ccb09e6e2ba46ae8da2d"
+[GIN] 2024/04/12 - 17:18:10 | 200 |    126.7007ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712913491&nonce=8c342c3a70069370d1a005f97e2882a4&sign=955e64470f8e1db3354057ab30efcae9"
+[GIN] 2024/04/12 - 17:18:11 | 200 |    661.2382ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712913492&nonce=99753aa34bdf5bbda12ef4da2d527c59&sign=b4cfd15b4fde44b13170c15ff6dc3c2e"
+[GIN] 2024/04/12 - 17:18:11 | 200 |    270.1092ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913492&nonce=a95e6405e8f21d277a77b82dc22ac091&sign=8da24031cdf62907a5ca058e8615069f"
+[GIN] 2024/04/12 - 17:18:11 | 200 |    237.5423ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712913493&nonce=d1630dbe275f207b7e02fa9bd29a163e&sign=ab15d04833f0645f17ef3872b2956b80"
+[GIN] 2024/04/12 - 17:18:12 | 200 |    199.0654ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913493&nonce=6847b4c229aa0decaed8a049c81f364b&sign=a1ec3579cf184cb41721e594236ff620"
+[GIN] 2024/04/12 - 17:18:12 | 200 |    312.4598ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712913493&nonce=5b5532abf82524ee9d50f4abe35383a6&sign=ca5d9ebd6a08e22b00de0142e8f2a53d"
+[GIN] 2024/04/12 - 17:18:13 | 200 |    312.8173ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913494&nonce=9765d30d0870fc375b9b69f8447717b2&sign=24e8d5fc959c5126f30a041c6e6d5ac0"
+[GIN] 2024/04/12 - 17:18:15 | 200 |    199.5925ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913496&nonce=6e64569b8db34ac33369319e0774f937&sign=0423e55ae0e74bdc3a14b4a926e54a98"
+[GIN] 2024/04/12 - 17:18:15 | 200 |    111.0277ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913497&nonce=eb77787909f7346b514471180e685059&sign=ea5b387af75218eae4c206f16d890161"
+[GIN] 2024/04/12 - 17:18:17 | 200 |    156.0927ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913499&nonce=8d7a9d3bb4f7290019965c0300fca037&sign=fcd44f967a5e61a9c308f14111371e00"
+[GIN] 2024/04/12 - 17:18:19 | 200 |    124.8931ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913501&nonce=b1ceaa98b2cf7ddb5962d74793f7b33c&sign=c6af0493584cb435f0fc5b3f44b746db"
+[GIN] 2024/04/12 - 17:18:23 | 200 |    359.6339ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913504&nonce=20cac44d18f0b0a3f90fd969fa4e07d7&sign=be50bb84e9538343114d8f994f2ebc81"
+[GIN] 2024/04/12 - 17:18:24 | 200 |    123.7248ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913505&nonce=e5867d92c42728c0f49ca075ab94d864&sign=920943586aa6e288cc8b5647f59781f0"
+[GIN] 2024/04/12 - 17:18:25 | 200 |    733.4196ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712913506&nonce=36c4197db238c6d2f5184831260858e8&sign=e73daf8433e459995a51152aa09ed673"
+[GIN] 2024/04/12 - 17:18:25 | 200 |    167.3249ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712913506&nonce=ae56045494d52c38b406d11856edac8a&sign=eab831f2bcaa61096ecf4e498fbe5f1b"
+[GIN] 2024/04/12 - 17:18:26 | 200 |    179.0445ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712913507&nonce=3175c33286aa0ff4390840df885aae8d&sign=2d0592f0e679b1212b9e7c16102acdd2"
+[GIN] 2024/04/12 - 17:18:27 | 200 |    252.6452ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913508&nonce=f9e20e29dae6b4b71742994303a8b9fb&sign=071bf3c454daa6c4084620438087db81"
+[GIN] 2024/04/12 - 17:18:46 | 200 |     238.896ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913527&nonce=67d0a02b72b529adfd038ed9b2782ce5&sign=9e9cee062401fe05ec438bd48639d70d"
+[GIN] 2024/04/12 - 17:18:49 | 200 |     249.217ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913531&nonce=dc9854ba2f308e89266e0cca1aa14f3a&sign=89adbc2a72f629643053906e21ff8028"
+[GIN] 2024/04/12 - 17:18:50 | 200 |     123.941ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913532&nonce=f464b6a033832a94cbc3b6ffeb6690f5&sign=c6f033866015bf134c3bb039e258f88e"
+[GIN] 2024/04/12 - 17:18:51 | 200 |    289.1009ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913532&nonce=1f47e73810ad1e009d66656ae8fc4019&sign=b7dd2c0cdf7a663de6702156ffdb1a3f"
+[GIN] 2024/04/12 - 17:18:54 | 200 |    182.6066ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712913535&nonce=c145e40490d705121f073c3c26704333&sign=cbbe7cda55452fd5d30e7d39e608cace"
+[GIN] 2024/04/12 - 17:18:54 | 200 |    117.7475ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913536&nonce=e819893612f90f72bbbab684a590885e&sign=85867cb2d570f7690fa3cbb57d3ef216"
+[GIN] 2024/04/12 - 17:18:55 | 200 |    223.1727ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913536&nonce=e35dc564a13768269ac8d48c0986997a&sign=ae84655d88cfcac2f528cad02fa065fe"
+[GIN] 2024/04/12 - 17:18:56 | 200 |    131.2247ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913537&nonce=b64d676758852752d13a51d272c9d4a5&sign=194fc3f1d735d23a7455745b48341e4f"
+[GIN] 2024/04/12 - 17:18:57 | 200 |     119.634ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913538&nonce=61a6523047daa8c5d480db105d8f2375&sign=fbe8453e542d695919ae28290c7c0424"
+[GIN] 2024/04/12 - 17:18:57 | 200 |    124.1188ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712913539&nonce=80e9d6a8f9b653b4782f8b6c6402df50&sign=791453abd2fa026a588f902d77e489b0"
+[GIN] 2024/04/12 - 17:18:58 | 200 |    122.3957ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712913539&nonce=b043cd3c6aa3cd20c577db739dbbf8c3&sign=bc5aa8bb65e308ddd237b03070fa38df"
+[GIN] 2024/04/12 - 17:18:59 | 200 |    143.6309ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712913540&nonce=6df0fe2d4e15cdeeae56fa1e634c449e&sign=2496c1d9446b72a1bbf72e485de62c35"
+[GIN] 2024/04/12 - 17:19:00 | 200 |    119.3949ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿拉德之怒【手游】&adminid=admin&ti=1712913541&nonce=3e86d5ccc275489e89c1f29bed0a2823&sign=4b9ba132746b1e708fd2887cc7a96245"
+[GIN] 2024/04/12 - 17:19:00 | 200 |    260.9348ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712913542&nonce=061eea824848b976e13105d673e94078&sign=16bc30c673bb6cd2ef6db2b4b30e8f7d"
+[GIN] 2024/04/12 - 17:19:02 | 200 |    256.0101ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913543&nonce=88cc334e64c835037aba93792e98271f&sign=306adcadcea6766a100dd2a6f527abe2"
+[GIN] 2024/04/12 - 17:19:03 | 200 |    195.5567ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913545&nonce=89ae0c4b9f2bc0e5af1fda8530c32a15&sign=707155303dbec0c08afc7512e435b497"
+[GIN] 2024/04/12 - 17:19:04 | 200 |    126.2347ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913545&nonce=2b1cf90d109282acc615991fd7936456&sign=d253bbfbf4ea112d5945e2ee2b8c7c90"
+[GIN] 2024/04/12 - 17:19:04 | 200 |    164.1056ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913546&nonce=8cb50c2d13ac99c2bbb03bac4cd07141&sign=7ec68f1b7eecd97eb69d86bb155c9311"
+[GIN] 2024/04/12 - 17:19:05 | 200 |    196.1811ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712913546&nonce=600eff0e3910d722dacb494ff8baacf2&sign=d6e69cf25e68c1d8abe673f6b0689ad1"
+[GIN] 2024/04/12 - 17:19:51 | 200 |    162.1442ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913592&nonce=957afdc2415a43b3bdb370a6bfc67063&sign=0e2be9a446f03a48729ee321433bca89"
+[GIN] 2024/04/12 - 17:19:53 | 200 |     936.217ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913594&nonce=1eb2d4aacaa7e4319878c3d6f86852a7&sign=898e975b7732aa4a3b22a87580f05417"
+[GIN] 2024/04/12 - 17:20:04 | 500 |     72.8244ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913606&nonce=5d9baa65f4abec750adf3cf392e718be&sign=5dd1d7f24e31683921163232d2bea484"
+[GIN] 2024/04/12 - 17:20:04 | 200 |    144.6189ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913606&nonce=296596847b08a159fb27dbf343aaca7f&sign=d7452dd731f16dec686f66b8bed38c1d"
+[GIN] 2024/04/12 - 17:20:04 | 200 |    110.5707ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913606&nonce=b6659943d19239276b55d9559163be91&sign=c197a45c5ec1dad33cf17465a4aeb65d"
+[GIN] 2024/04/12 - 17:20:10 | 200 |    104.4278ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712913612&nonce=8e3103f7536d1e0b86b766858a8cdb0f&sign=f1628465affb867946ea9e87f2cf1434"
+[GIN] 2024/04/12 - 17:20:11 | 200 |    109.2913ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913612&nonce=34f1c790b39546911eadd8a3e6eb19a4&sign=695da8770c9d840d1f697d7863c3237b"
+[GIN] 2024/04/12 - 17:20:12 | 200 |    181.0361ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913613&nonce=c854436eb4c96e87f0667450731bf55f&sign=73b116454c56eaaa795c715bc164118e"
+[GIN] 2024/04/12 - 17:20:12 | 200 |    231.0087ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712913613&nonce=aab5b95b8ce2de5975884a918e441713&sign=33f198b2de13a035648474385b10a8b8"
+[GIN] 2024/04/12 - 17:20:13 | 200 |      260.99ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913614&nonce=b2a87d052aa67bb0efcd7b02c5b72e99&sign=56a5a3aac21ccf483cf47336cb65fe05"
+[GIN] 2024/04/12 - 17:20:13 | 200 |    293.6421ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913615&nonce=219529dd8d19fd9e8f3bcfc01e6bce63&sign=b1cd25595356c375cdad41e7a6f11d85"
+[GIN] 2024/04/12 - 17:20:14 | 200 |    516.3848ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712913615&nonce=dcf45e14881ca820030df39725aa2842&sign=8d8193075d91d1435b3a24ceccbf598b"
+[GIN] 2024/04/12 - 17:20:15 | 200 |    189.7881ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712913616&nonce=34bd5a23ccf98b2b14c00d66ea57a261&sign=498ff987ce98ef9c366bb12896d58ecf"
+[GIN] 2024/04/12 - 17:20:16 | 200 |    872.6685ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712913616&nonce=8a77b2f621afd420522a258d97998498&sign=e1bca16a1bf732854e539a53ac62e13e"
+[GIN] 2024/04/12 - 17:20:16 | 200 |    253.4229ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712913617&nonce=189ec46606f2f02f30f5c732cb084a4c&sign=8d855a816693baee365e819729aee767"
+[GIN] 2024/04/12 - 17:20:16 | 200 |    159.5071ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712913618&nonce=d8c11008dbc769ef0e2574832ae33429&sign=ab1d8312263fa693a274a35adadaa655"
+[GIN] 2024/04/12 - 17:20:17 | 200 |   22.6762085s |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913596&nonce=965ad11caacfbee13dbca99ea0e4b779&sign=381676bf964a90e8b901cd9ae6f37a75"
+[GIN] 2024/04/12 - 17:20:18 | 200 |    287.0305ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913619&nonce=42b41afcbddb6b2fd7da5dcb83af01bb&sign=2f66eb78ad087b7e379226505efef7bd"
+[GIN] 2024/04/12 - 17:20:18 | 200 |    178.2251ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913619&nonce=6bc0724b48d7f0cc2b5122928d62a935&sign=d8d96f4ad85f60e6f8f3fa21e3a04981"
+[GIN] 2024/04/12 - 17:20:18 | 200 |    186.8418ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913620&nonce=9a4f02290b5031c35e9d8de29125e0a1&sign=096b3a04f3a652ecf7f5d77ffbaee32b"
+[GIN] 2024/04/12 - 17:20:19 | 200 |    167.5554ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913620&nonce=586b7b05f5880352d8b2a390f2f05818&sign=c1cc3e6fcceea8fa0f21639fdf0a13cf"
+[GIN] 2024/04/12 - 17:20:19 | 200 |    154.8246ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913620&nonce=11398567a1244762eae74b18f2b0e790&sign=4ab32a19a7593b49464dc34b4bb7c9b5"
+[GIN] 2024/04/12 - 17:20:19 | 200 |     174.176ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913621&nonce=304bd525644a01bc43cf03e27c7e1c13&sign=38bf963cb27b19c096930ec7d296e534"
+[GIN] 2024/04/12 - 17:20:20 | 200 |    191.9086ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913621&nonce=2685fab455cc83749b78748cb2594815&sign=efbbb43390f511127ffec7ac8c62e5de"
+[GIN] 2024/04/12 - 17:20:21 | 200 |    180.7588ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913622&nonce=15436b685a718d480210fd1336f0da1f&sign=d7f8c6c79853999091fad4854561de31"
+[GIN] 2024/04/12 - 17:20:21 | 200 |    135.0056ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913623&nonce=b372e729fccd71f076d1996b8e2496e8&sign=6283dba706424523885dacaa606b8946"
+[GIN] 2024/04/12 - 17:20:22 | 200 |    241.3375ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913623&nonce=2fe0b830ff72e2f7fd87261e1f1485c4&sign=711b6bad6bf8a6b1cbbc4791d2e7b6ac"
+[GIN] 2024/04/12 - 17:20:25 | 200 |    211.8893ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913627&nonce=a02acae5ad63ef005392b211a3a48b59&sign=e3988d20179ed05f250a3db1a4a75f7a"
+[GIN] 2024/04/12 - 17:20:26 | 200 |    164.6217ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913627&nonce=78362b37031a30849a42f015e8fbd22e&sign=1cb4c277ce0a17ca0cc115b36160df1c"
+[GIN] 2024/04/12 - 17:20:26 | 200 |    167.9989ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913627&nonce=cf4922e26d7638d7f9e5955e802badc0&sign=8ab1ecff0228568eba68c6b50097eed7"
+[GIN] 2024/04/12 - 17:20:26 | 200 |    176.3871ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913628&nonce=fedc0c3eb917ff41989f2ab45891d027&sign=d226d0992bbc88b05c6af24901d51873"
+[GIN] 2024/04/12 - 17:20:27 | 200 |    130.5128ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913628&nonce=3d2ea69ada34062273dc152832d3d6ad&sign=d808c43a9bb7c366b5306de52bfc2075"
+[GIN] 2024/04/12 - 17:20:28 | 200 |    126.4133ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913629&nonce=012554bb53d07b229e26d54099ed8c2b&sign=ba231246b857f02516eda24ef4f41007"
+[GIN] 2024/04/12 - 17:20:29 | 200 |    301.1863ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913630&nonce=fd56258d41a5ff521a42c6148ae42678&sign=beb9712b95a933c1d84056bb368dd326"
+[GIN] 2024/04/12 - 17:20:29 | 200 |    258.9516ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712913630&nonce=5c7372f37abe05677b0d3b325c4ab06d&sign=380f2c8bd8c6a9286f7375f7faef178b"
+[GIN] 2024/04/12 - 17:20:30 | 200 |    587.8675ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913631&nonce=d0860ba3e43c915f051fbb65e386ccf5&sign=bc6f6ed64326a22627d1ae0aa0ae3370"
+[GIN] 2024/04/12 - 17:20:30 | 200 |    146.8987ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712913632&nonce=7683f0bd7f0a3b4d67f52d22e4030fe0&sign=e8771079999024c0231294b91d68e88b"
+[GIN] 2024/04/12 - 17:20:30 | 200 |    130.9032ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913632&nonce=bf480ac0c1ac26ff72b35fd1ea9a984d&sign=85f3ce53e29da9a2010d2558d2d4ef9d"
+[GIN] 2024/04/12 - 17:20:31 | 200 |    136.9641ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913632&nonce=fa8288e4c74c39a24bfd24f5161b5d1e&sign=b9def361ce09b5cd009a73b78427509b"
+[GIN] 2024/04/12 - 17:20:32 | 200 |    345.2176ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712913633&nonce=8777e4a657a06fe1fc097c1b55792db4&sign=b48b46ffb376c100baed7c8fbc701e3c"
+[GIN] 2024/04/12 - 17:20:32 | 200 |    246.7249ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913633&nonce=1d7aac3789c4901ca4b90820da7fb371&sign=27871f7cd33d20892fb90e28925fcf9f"
+[GIN] 2024/04/12 - 17:20:33 | 200 |    341.8233ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913634&nonce=e14682ab6b10098ac17561fa90095f9c&sign=b158fa969b56e6249b16bde096bb8d7f"
+[GIN] 2024/04/12 - 17:20:33 | 200 |    314.6727ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913634&nonce=021f1fd38b68e1d1cb4496445529365b&sign=b7683ee98cd1f8eebcf1edb8fe062884"
+[GIN] 2024/04/12 - 17:20:34 | 200 |    656.4193ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913635&nonce=f286d4ac4575a1b1c734a5f924feca1f&sign=f2cb63d22cf201d32ebfb5e1402df774"
+[GIN] 2024/04/12 - 17:20:34 | 200 |    207.7049ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913635&nonce=39876b57b8d46544de1d5785f9580128&sign=c0cc82a302e0d5b9ad995d3ae4112a8c"
+[GIN] 2024/04/12 - 17:20:34 | 200 |    170.8549ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913635&nonce=caae6c872649c76fe2cbfaf56fc4f774&sign=e3245f8f3fedc84c2d58b62de28a661f"
+[GIN] 2024/04/12 - 17:20:35 | 200 |    743.1038ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913636&nonce=48f384f5a7af9f6fceb6a4aafde5ab61&sign=81e354e00100129ef248d2ff9930dba3"
+[GIN] 2024/04/12 - 17:20:35 | 200 |    217.8363ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913637&nonce=65ba2c2c43486a2dae8cd3d29f3ffb0d&sign=be5caedb7a01e101983e1bdf77802bea"
+[GIN] 2024/04/12 - 17:20:36 | 200 |    520.6822ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712913637&nonce=fcae8296cca9e3624d737ddf70148737&sign=c00b0f43012ea932bc94ea353c35b550"
+[GIN] 2024/04/12 - 17:20:36 | 200 |     122.332ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913637&nonce=e12cd507fe7f1cf1059774abc18a488b&sign=8592ccfb57e5ccc9f01115078bb3e40e"
+[GIN] 2024/04/12 - 17:20:39 | 200 |    204.1625ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913640&nonce=03286a1ba35523b863ed81f9bb62a649&sign=87c1bcc383e08cbd430d63271c0985dd"
+[GIN] 2024/04/12 - 17:20:40 | 200 |    346.0016ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913641&nonce=96cd2f6b7bcf8b6c2174c544d9edf0b3&sign=6bfaceaf7fac0bffa694cac829589869"
+[GIN] 2024/04/12 - 17:20:41 | 200 |    171.4449ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712913642&nonce=b32bd5f6a411a34cb6e0f3ed7fd93f0c&sign=2cb8905a9d789fc7c1bc8c4c3bdcdded"
+[GIN] 2024/04/12 - 17:20:41 | 200 |    178.1858ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913643&nonce=9dd76543230cff7cf696d5068ed11a07&sign=707b0982f787383ef4caa5e32bf6cd17"
+[GIN] 2024/04/12 - 17:20:42 | 200 |    191.7991ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913644&nonce=23a1feeb1363cd0e7a70181c8c9e4a41&sign=c8e930e64f745756cb396c4d20648ec2"
+[GIN] 2024/04/12 - 17:20:43 | 200 |    435.6435ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913644&nonce=b9921e2990adf38e603487cc1fe14066&sign=31123b1ee72a72e94fec9fd93539ace6"
+[GIN] 2024/04/12 - 17:20:44 | 200 |    289.4468ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913646&nonce=9eca72bf297c303e49abcd9aea640e67&sign=0d6924c76e59b2e063d9f9fec747f4d2"
+[GIN] 2024/04/12 - 17:20:45 | 200 |    191.3957ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿拉德之怒【手游】&adminid=admin&ti=1712913646&nonce=3d7379108ebff076ec111973a1375f29&sign=3bc78d626f3b8eb5176b54fe6988a8e6"
+[GIN] 2024/04/12 - 17:20:45 | 200 |    220.3686ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑破坏神【手游】&adminid=admin&ti=1712913647&nonce=5fee14f2895819910d1c15613d2f003b&sign=4fc49c468022e6f3df37588dab79098f"
+[GIN] 2024/04/12 - 17:20:46 | 200 |     188.134ms |  192.168.18.177 | GET      "/api/GetGameCity?game=冰域传奇【手游】&adminid=admin&ti=1712913647&nonce=a6c42b7324f274191308ec8c722b28ea&sign=4fd91bd660d77b1b5099167f27f06186"
+[GIN] 2024/04/12 - 17:20:46 | 200 |     124.439ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913647&nonce=5eaa2090b25113b0e2c422b2bfb16aa7&sign=cb631159a893e4760be42f13bdc9bfd4"
+[GIN] 2024/04/12 - 17:20:47 | 200 |     172.204ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913648&nonce=5c2f6c2d2982d9c46920e43257437870&sign=5075c805cbcadcba6899fd26b5e6aa47"
+[GIN] 2024/04/12 - 17:20:48 | 200 |    184.7755ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913649&nonce=39189c5e30c879fb502a1dd90cc2219d&sign=ce8c0ef329a52798a21692f67128960e"
+[GIN] 2024/04/12 - 17:20:48 | 200 |    119.6996ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913649&nonce=23685b6114302b8b4bf65cf9e5fdd0b7&sign=42fd80274d9e986a27e64a7846a3b15d"
+[GIN] 2024/04/12 - 17:20:49 | 200 |    140.2416ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913650&nonce=cbd78651643805e448d1853f1bf8902e&sign=3049831376dc44732972955c02080dcb"
+[GIN] 2024/04/12 - 17:20:49 | 200 |    123.5091ms |  192.168.18.177 | GET      "/api/GetGameCity?game=阿尔比恩【端游】&adminid=admin&ti=1712913651&nonce=4eeb2eb72417b0dc60614e4301d23d7e&sign=837322a77cbd5dd9e0a0bf727f205777"
+[GIN] 2024/04/12 - 17:20:50 | 200 |    475.7249ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑世界【手游】&adminid=admin&ti=1712913651&nonce=1fe939c53f1c86678a1bc92edf1265ba&sign=78e19add0e82550f3296ff719ccb055a"
+[GIN] 2024/04/12 - 17:20:50 | 200 |    186.8505ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不朽仙侠【手游】&adminid=admin&ti=1712913651&nonce=91646ff7fb2357ab650ad3f02f12e981&sign=36d645b5c4323db937a8b3061d1e9458"
+[GIN] 2024/04/12 - 17:20:50 | 200 |    219.5967ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913652&nonce=82511c2424cf5080c9046905f8b09f5e&sign=a2d6524ff57680a9805dac784aefb4f4"
+[GIN] 2024/04/12 - 17:20:51 | 200 |    194.9212ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712913652&nonce=bd8790ac078148e81752c4525de3dc10&sign=1d04ce1b64c0ed75a34c4ff1e8528004"
+[GIN] 2024/04/12 - 17:20:51 | 200 |     257.702ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913652&nonce=16a1a28bd4eab9a85f996f5427f32757&sign=93e6cb0a943d89cc0c35bd7d99b6cf0c"
+[GIN] 2024/04/12 - 17:20:51 | 200 |    223.3027ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913653&nonce=ae26251a1e8af1b297e23785b84fdde1&sign=ba17fc621e44a2e1c834a030e099223a"
+[GIN] 2024/04/12 - 17:20:52 | 200 |    307.3181ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913653&nonce=f629a89c07e96992e1d1d4262cf397e8&sign=a9b4d52879cd27266222a928823dd5e3"
+[GIN] 2024/04/12 - 17:20:52 | 200 |    165.6196ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913654&nonce=524a172e00b180cb14e0a96e59de9f2f&sign=430256606268ba55046b1f843534f6cc"
+[GIN] 2024/04/12 - 17:20:54 | 200 |     313.797ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913655&nonce=5fd881a8d903c086b5dd97812678fec5&sign=f67c8e3589f561755ddd51c09cf39975"
+[GIN] 2024/04/12 - 17:20:57 | 200 |    883.9139ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913658&nonce=7dea94c6666f0de5af12278769a2e0f0&sign=955f84d2aed256a342bfe581974fccaf"
+[GIN] 2024/04/12 - 17:20:59 | 200 |    135.6238ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913660&nonce=d7f871e2581b83b3ffcbb328df35b930&sign=1314b3eb0960ae6e9c4f72bd45a9b955"
+[GIN] 2024/04/12 - 17:21:00 | 200 |    128.1872ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913661&nonce=f0b7120fd6694bcf6e2aabf0cdd4f3f8&sign=4cb412a4d5133b4d0e1342f419db8539"
+[GIN] 2024/04/12 - 17:21:04 | 200 |    729.4539ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑战歌【手游】&adminid=admin&ti=1712913665&nonce=fbde3800a4ce3acbdb411a76f666b352&sign=eb1929b498cc3dc7e80cac97dc5d122a"
+[GIN] 2024/04/12 - 17:21:04 | 200 |    259.2875ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913665&nonce=6b100d9d8e4a0fa7264fa9083a1e6160&sign=b4130d688a3ca6c691f44c40c6675212"
+[GIN] 2024/04/12 - 17:21:05 | 200 |    115.9073ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913666&nonce=a0c84e4906dec4b5e765f77898c698bc&sign=bbea3da5b61d319f6a4377ee31b43e12"
+[GIN] 2024/04/12 - 17:21:07 | 200 |    199.3042ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913668&nonce=9b73b4a7b61cf1cd7ab660659b7d7213&sign=fc68c93a5bed5addd1115eb4480044c1"
+[GIN] 2024/04/12 - 17:21:08 | 200 |    583.4568ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712913669&nonce=21ee2cc42668688b88a6847a34f458f4&sign=c6674372741a1ee2e5b01eb454422f4e"
+[GIN] 2024/04/12 - 17:21:09 | 200 |     327.824ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913670&nonce=4a196d2afd63ea3608aef1e3589d7318&sign=31e9b482dce851a2ee49da8240461e31"
+[GIN] 2024/04/12 - 17:21:10 | 200 |    876.2318ms |  192.168.18.177 | GET      "/api/GetGameCity?game=不休的乌拉拉【手游】&adminid=admin&ti=1712913671&nonce=5cd36e6139b3c076533593868330ce66&sign=51b7867e148eea37ff25866cfb691b58"
+[GIN] 2024/04/12 - 17:21:10 | 200 |    147.7569ms |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913672&nonce=fa352197ec816376609dbd4bfdeed1d5&sign=991ed470cf97d8759e58f854d723f37d"
+[GIN] 2024/04/12 - 17:21:10 | 200 |    121.7455ms |  192.168.18.177 | GET      "/api/GetGameCity?game=艾尔之光【端游】&adminid=admin&ti=1712913672&nonce=14bcff4cbc43edc38513ea2c3519d0a4&sign=08bd53ae2983b4b1726dea534ebdafe6"
+[GIN] 2024/04/12 - 17:21:11 | 200 |       199.1ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑黎明【手游】&adminid=admin&ti=1712913672&nonce=0299f54831711384082321aea4512b72&sign=5dd7f7de4421e7e3d25a5116b0554be0"
+[GIN] 2024/04/12 - 17:21:12 | 200 |    225.9304ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913673&nonce=534c24a604aa98ad17477a797ea3f660&sign=a5da7258591d414732b1a9d41caff22d"
+[GIN] 2024/04/12 - 17:21:12 | 200 |    545.5083ms |  192.168.18.177 | GET      "/api/GetGameCity?game=728棋牌捕鱼【手游】&adminid=admin&ti=1712913673&nonce=2ecf5c662e0207bd4150a1665b4d32e8&sign=5b3764d59cfac1010a68ffbdebd3d98c"
+[GIN] 2024/04/12 - 17:21:13 | 200 |    700.5334ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712913674&nonce=f96c6215a1400bb83d9b4237e6c79d1f&sign=a071d204d7c406a51d5e78c8998222ac"
+[GIN] 2024/04/12 - 17:21:14 | 200 |    338.4593ms |  192.168.18.177 | GET      "/api/GetGameCity?game=850棋牌游戏【端游】&adminid=admin&ti=1712913675&nonce=27287a284fcf15909eaaeaea52eb878e&sign=286ed9ef29a78f9de069bf1bd8af9cf2"
+[GIN] 2024/04/12 - 17:21:14 | 200 |    338.5791ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712913675&nonce=2bc1f9f2dc96374aa495d9f49ae6b7a5&sign=01f74799ccc30100700c852a5f02ea76"
+[GIN] 2024/04/12 - 17:21:15 | 200 |    1.0947793s |  192.168.18.177 | GET      "/api/GetGameCity?game=365捕鱼【手游】&adminid=admin&ti=1712913675&nonce=f38d1df292eef1218125d25708d7a5d5&sign=542bd57e76a6521f0edf7c7f8cc06ac8"
+[GIN] 2024/04/13 - 09:03:33 | 200 |     108.367ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712970213&nonce=9d8fd555b26667c8df4cfc74cb55bda4&sign=ab1a18f9a3c0273c1e292059afba1a23"
+[GIN] 2024/04/13 - 09:06:27 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712970387&nonce=155a04938f0f54539a873b5d80738a5d&sign=ac5912c0b825823841ed625c913af8d2"
+[GIN] 2024/04/13 - 09:07:58 | 200 |       533.6µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712970479&nonce=d0047b7b959214e66560b8498126f7e0&sign=2791de77ddc399a75ede42f0c62deb11"
+[GIN] 2024/04/13 - 09:08:03 | 200 |    404.4078ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712970483&nonce=419f22e3ce522b7d27e891a3dba67a81&sign=77cc9312460216b038e59097c3787133"
+[GIN] 2024/04/13 - 09:13:50 | 200 |    105.4709ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712970831&nonce=68665d5fd1addc3282f21acb93d13d75&sign=3312610ee2d53ca19ce8231553147675"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 09:18:28 | 200 |    182.8857ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:29 | 200 |       180.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:30 | 200 |    208.1825ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712971110&nonce=9774e2d902f9b33d6533dbe3f484d26e&sign=962c41b3143b10725bc308acf85ddf9b"
+[GIN] 2024/04/13 - 09:18:31 | 200 |       173.4µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:32 | 200 |       246.9µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:33 | 200 |         141µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:34 | 200 |       557.9µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:35 | 200 |       324.9µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:36 | 200 |       141.6µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:18:53 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712971134&nonce=f191535c308c4d484e8bbe6061076a34&sign=4258a408387cd8c388ee25aa11f4045a"
+[GIN] 2024/04/13 - 09:18:55 | 200 |    271.5775ms |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712971135&nonce=dc6005c6be54846fc4e9b902ae2640cb&sign=de13369a75c379401d100072d1127b28"
+[GIN] 2024/04/13 - 09:20:23 | 200 |    442.3548ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712971223&nonce=f3cee1380bf80f063b7d508921b40307&sign=272f88e01fd6b1ef07fdacca98acd5e1"
+[GIN] 2024/04/13 - 09:20:27 | 200 |         576µs |  192.168.18.177 | POST     "/api/ChangeCity"
+[GIN] 2024/04/13 - 09:22:41 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712971361&nonce=0ee2f3975d8377030923f5ee0c2c447f&sign=7b3c05353e97dca7689cc1758e793f6f"
+[GIN] 2024/04/13 - 09:25:22 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712971523&nonce=033bd454ec50431536125dc26332d443&sign=d2836f6513bb2c4d0ecf7980b7ceb423"
+[GIN] 2024/04/13 - 09:25:24 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=5E对战平台【端游】&adminid=admin&ti=1712971524&nonce=7bfbd3e7ba92109ecfbf8fc1d42cc9fd&sign=84da823e0a67b43df3ae0e3b16b0ff35"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 09:26:46 | 200 |    181.6461ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:26:47 | 200 |       200.7µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:26:48 | 200 |       840.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:26:49 | 200 |       295.3µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:26:50 | 200 |       937.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:27:00 | 200 |    154.4091ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 09:27:30 | 200 |    101.1329ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712971650&nonce=cd9f1268ae901d56612186d98c19483d&sign=55aededd0bffcc64da290b33740d30b0"
+[GIN] 2024/04/13 - 09:32:38 | 200 |    215.8117ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:40 | 200 |       843.8µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:41 | 200 |        72.5µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:42 | 200 |       688.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:43 | 200 |      1.0295ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:44 | 200 |       662.9µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:44 | 200 |       129.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:45 | 200 |       640.5µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:46 | 200 |       171.4µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:48 | 200 |       310.4µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:50 | 200 |       365.7µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:51 | 200 |        71.8µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:51 | 200 |       983.3µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:52 | 200 |       395.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:53 | 200 |         223µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:54 | 200 |       1.019ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:32:55 | 200 |       113.6µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 09:33:28 | 200 |    191.6072ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:33:29 | 200 |       728.4µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:33:30 | 200 |      1.0631ms |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:33:32 | 200 |       216.6µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:35:55 | 200 |    243.2137ms |       127.0.0.1 | GET      "/api/GetGameCity?game=5E%E5%AF%B9%E6%88%98%E5%B9%B3%E5%8F%B0%E3%80%90%E7%AB%AF%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:35:57 | 200 |         862µs |       127.0.0.1 | GET      "/api/GetGameCity?game=5E%E5%AF%B9%E6%88%98%E5%B9%B3%E5%8F%B0%E3%80%90%E7%AB%AF%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:35:58 | 200 |       1.032ms |       127.0.0.1 | GET      "/api/GetGameCity?game=5E%E5%AF%B9%E6%88%98%E5%B9%B3%E5%8F%B0%E3%80%90%E7%AB%AF%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:13 | 200 |    146.2651ms |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E6%88%98%E6%AD%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:15 | 200 |       301.6µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E6%88%98%E6%AD%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:16 | 200 |       387.1µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E6%88%98%E6%AD%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:25 | 200 |     191.839ms |       127.0.0.1 | GET      "/api/GetGameCity?game=%E8%89%BE%E5%B0%94%E4%B9%8B%E5%85%89%E3%80%90%E7%AB%AF%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:27 | 200 |       204.1µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E8%89%BE%E5%B0%94%E4%B9%8B%E5%85%89%E3%80%90%E7%AB%AF%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:38 | 200 |    123.1047ms |       127.0.0.1 | GET      "/api/GetGameCity?game=%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:42 | 200 |       835.1µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:36:43 | 200 |       926.3µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:10 | 200 |    120.1664ms |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E4%B8%96%E7%95%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:12 | 200 |       956.7µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E4%B8%96%E7%95%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:13 | 200 |       667.1µs |       127.0.0.1 | GET      "/api/GetGameCity?game=%E6%9A%97%E9%BB%91%E4%B8%96%E7%95%8C%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:21 | 200 |       344.1µs |       127.0.0.1 | GET      "/api/GetGameCity?game=365%E6%8D%95%E9%B1%BC%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:31 | 200 |    114.5336ms |       127.0.0.1 | GET      "/api/GetGameCity?game=BT%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:32 | 200 |       561.2µs |       127.0.0.1 | GET      "/api/GetGameCity?game=BT%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:37:34 | 200 |      1.0371ms |       127.0.0.1 | GET      "/api/GetGameCity?game=BT%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 09:57:04 | 200 |    304.4435ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973424&nonce=c91ef55e84db11dcd45e75c969dd6b9b&sign=cb9f1cd2c9199a00353bdcfb01c442d5"
+[GIN] 2024/04/13 - 09:57:06 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973426&nonce=756dac6a26af51296ec8d4e46281013f&sign=270e5dcb51f5cfb80b4e0b979505b3c4"
+[GIN] 2024/04/13 - 10:00:43 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973644&nonce=84b85eb7d7da5244d0b2e474f349cf08&sign=ad81a824a5f652a0ee0d122f70d631c4"
+[GIN] 2024/04/13 - 10:01:33 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973693&nonce=ac8d58fcb6c656e7083a1202298dd2d2&sign=482d2382ad116d5ab54fe025f9ddc00e"
+[GIN] 2024/04/13 - 10:01:35 | 200 |     299.935ms |  192.168.18.177 | GET      "/api/GetGameCity?game=BT【手游】&adminid=admin&ti=1712973695&nonce=8b0c2edbf4000fbf3fee7708caf1f001&sign=9408e586959149e6d0f968716912b441"
+[GIN] 2024/04/13 - 10:01:43 | 200 |       539.1µs |  192.168.18.177 | POST     "/api/postOrder"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:02:12 | 200 |    219.6024ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973732&nonce=3c01c3a00a773dfde696255f1e2af2c1&sign=2dd5cbb63832ddd1796db73604c673b2"
+[GIN] 2024/04/13 - 10:02:15 | 200 |    177.8881ms |  192.168.18.177 | GET      "/api/GetGameCity?game=安尼卡【手游】&adminid=admin&ti=1712973735&nonce=536e6be45c3e48f4ce1792f616a52e78&sign=a32d62ecea5bdd980c43bdff60c2da46"
+[GIN] 2024/04/13 - 10:02:20 | 401 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 10:02:34 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973754&nonce=58a629c45bec874cf4a2dabff1cf18b1&sign=5181651bbd234860e5e884381cc9d6c8"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:04:52 | 200 |    116.3711ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973892&nonce=32920f15d092a0617adbc54377c96e2b&sign=358e66b75d053c8e3631c2721517cd5f"
+[GIN] 2024/04/13 - 10:04:53 | 200 |    153.6225ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712973893&nonce=b01097077225a9f68bf9180707f30f39&sign=087971732e93aea4ba31ba633bcb747d"
+[GIN] 2024/04/13 - 10:04:57 | 401 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 10:05:02 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973902&nonce=68beb9ff48c0190e0685e69fe9f56582&sign=ffb7c1c5f682f275e4d8da70317e1774"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:05:53 | 200 |    271.8305ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712973953&nonce=68810c1d0bfde5271e69b686bfcf70e9&sign=0d227e41f33fc0d72c85420240554342"
+[GIN] 2024/04/13 - 10:05:54 | 200 |    155.7472ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712973954&nonce=6b830aff1a00ca1cfbe9b1e890274bf3&sign=cc8c4668d44113310a644e3228314bed"
+[GIN] 2024/04/13 - 10:06:00 | 401 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 10:07:14 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974034&nonce=183c10ae12b1ede9aeea9e02f2c12f6f&sign=4f32f8a50514bb04e02e9037833c469b"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:11:58 | 200 |    126.6878ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974318&nonce=876daae4c3c0d240ea55005f412e56cd&sign=337148d90217273fd296e47ac85becb5"
+[GIN] 2024/04/13 - 10:12:04 | 200 |    125.0865ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712974324&nonce=e35b88ec7aec1f18ccbae762a4f764fd&sign=c7e41793fa150362a10c50ac43a18482"
+[GIN] 2024/04/13 - 10:12:33 | 200 |       502.7µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974354&nonce=2a3959740ef29021b69703708a1b07f2&sign=91576c6b0eeaf96a59a58cb42455de90"
+[GIN] 2024/04/13 - 10:12:55 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974375&nonce=10e8db87f17f8d336cf9b4f67cfeca56&sign=d9775098d6c91edfb01dfb9b66f7e409"
+[GIN] 2024/04/13 - 10:12:56 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712974376&nonce=fd2d8f185b561c51e5921002438b6ccc&sign=85eed7f46b8bef82070b5e2cc62f95d2"
+[GIN] 2024/04/13 - 10:12:59 | 401 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 10:14:00 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974440&nonce=40110b1a3da5a33c4e1bb7cee841b5bd&sign=385cbd42586b846793111686ee9defd2"
+[GIN] 2024/04/13 - 10:15:14 | 401 |            0s |  192.168.18.177 | POST     "/api/Renewal"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getCity              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:21:20 | 404 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974881&nonce=ca90877a1f6aa95a26cd8a3833a8e5d1&sign=93a370f6160467de797d9ba1ce3532b2"
+[GIN] 2024/04/13 - 10:21:23 | 404 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974883&nonce=df0061eabdc891c120dd5791adf3cfb9&sign=27719458c1dc3a104530547bc98e0e01"
+[GIN] 2024/04/13 - 10:21:23 | 404 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712974884&nonce=8c6e3b7d46ca83a7511bebc6e1537e0d&sign=dfc2acb7548ba42523cd8827ff209347"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (4 handlers)
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:24:12 | 404 |            0s |       127.0.0.1 | GET      "/api/GetGameCity?game=BT%E3%80%90%E6%89%8B%E6%B8%B8%E3%80%91"
+[GIN] 2024/04/13 - 10:25:56 | 400 |      1.5094ms |       127.0.0.1 | POST     "/api/Renewal"
+[GIN] 2024/04/13 - 10:26:02 | 400 |       214.4µs |       127.0.0.1 | POST     "/api/Unsubscribe"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:28:08 | 401 |        43.3µs |       127.0.0.1 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 10:31:13 | 404 |            0s |  192.168.18.177 | GET      "/man/iporderRemain?adminid=admin&ti=1712975473&nonce=9d18bbfe522904bba4e68a8850bf0387&sign=08bf85a33e3a564d98739d1e5c8a2ca4&po=A17129737033955474"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:35:35 | 200 |    135.5332ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712975736&nonce=cbff7eb4a0cd3af796105ac642469f7d&sign=84a00f169e5d8be68df0506c9b705d3e"
+[GIN] 2024/04/13 - 10:35:37 | 200 |    130.0721ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712975737&nonce=e83a633401fd4f146a9e0f4af02917f8&sign=89e69cae5cce2c7718fb2fc23a8dbc81"
+[GIN] 2024/04/13 - 10:35:39 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712975739&nonce=a356b865cbbbc63deb6dd265f05d8f57&sign=f540156042343af69ddaf407ec4c1213"
+[GIN] 2024/04/13 - 10:35:55 | 200 |    152.3205ms |       127.0.0.1 | POST     "/api/postOrder"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 10:43:53 | 200 |    302.2936ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712976233&nonce=e22ccdda8aabe5bf68a574ce78324dd9&sign=c79f37b6690cf48539891c57488a9834"
+[GIN] 2024/04/13 - 10:44:00 | 200 |    131.8706ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712976240&nonce=b2fcbc7d8ab521ef7552e779cd257600&sign=4e57d6c3aede8741efc6a41e79c1d476"
+[GIN] 2024/04/13 - 10:44:33 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712976274&nonce=5c7abc9e97fb0b6a15be63807853d01c&sign=e087fd5de304dbb55fd70a8c0d9b4020"
+[GIN] 2024/04/13 - 10:44:35 | 200 |       559.3µs |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712976275&nonce=6aab0f6b0cd5d260a8c114bd37f6f0f1&sign=5ad00b30fb3938d44cdc0378bd5a08d9"
+[GIN] 2024/04/13 - 10:46:36 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712976396&nonce=3d2cf02e655dc13f13563c4b298b83b7&sign=4e64056fffe7e9f7fa833c3e7b7d78e0"
+[GIN] 2024/04/13 - 11:06:48 | 200 |    237.6822ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712977608&nonce=1e440d4762c96d4e96ca2a79b8958cf6&sign=c5542271c24e84e94d75f7674b41d806"
+[GIN] 2024/04/13 - 11:13:45 | 200 |       580.7µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978026&nonce=bf38f2125454f1acad47674bf1d963f3&sign=4909e95f8e49cca980265d04824f9d6f"
+[GIN] 2024/04/13 - 11:13:48 | 200 |    171.2667ms |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712978028&nonce=8251f28d23d3ed57507adcf170ed778b&sign=f5b95c98085a7e4ac8e30eac1f04323c"
+[GIN] 2024/04/13 - 11:14:11 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978051&nonce=ba0449046443bf0cc1e6966497514f51&sign=4c1e43402ad13e5e2851a3a0d8d71a5e"
+[GIN] 2024/04/13 - 11:14:16 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712978057&nonce=3a8cce0ad906e1de01265c8f5090083f&sign=01d5cdb5f3d2483b80d2cffa22bde652"
+[GIN] 2024/04/13 - 11:14:20 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:15:52 | 200 |       548.5µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978152&nonce=b2db6d1c02f7b3d20ddb66319f99b55c&sign=a6cdb169cd8c1d4372010cd45f1c14be"
+[GIN] 2024/04/13 - 11:16:02 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=暗黑不朽【手游】&adminid=admin&ti=1712978162&nonce=b291cc01b6c93d710172e6f3f27b520c&sign=74c61134522d10a84363654ce71986fc"
+[GIN] 2024/04/13 - 11:19:32 | 200 |    100.7124ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978373&nonce=fec725ee5e8198f96d69debb6006d9d1&sign=a52b4d017bb134c03945b168f5062b55"
+[GIN] 2024/04/13 - 11:21:05 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 11:24:36 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978677&nonce=28cee6948d0e6b9eecfea38867e39df3&sign=2e28b634102122366418467c7551c887"
+[GIN] 2024/04/13 - 11:24:37 | 200 |    291.0961ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712978677&nonce=64c4b547b0a4504c96ebcec51f35e380&sign=f481ffc58db36ac6765d5eb14ff435ad"
+[GIN] 2024/04/13 - 11:24:43 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:24:56 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 11:25:08 | 200 |       503.3µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978709&nonce=a13c01cd57812ca13ecc671d582c5c51&sign=f2d66d6a1d7a58a9af76c96ab0aa63e0"
+[GIN] 2024/04/13 - 11:25:09 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712978709&nonce=ae40d91e8949591fa93b497ee9eb1561&sign=8d002d0d14e4ddf0e7f277bd37286a8b"
+[GIN] 2024/04/13 - 11:25:12 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:25:18 | 200 |      2.5138ms |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:25:55 | 200 |            0s |  192.168.18.177 | POST     "/api/Renewal"
+[GIN] 2024/04/13 - 11:26:18 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 11:27:17 | 200 |         613µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978838&nonce=1690360c97f575cbc66959153368aec1&sign=1021cc123959a8f8dd305cf3b25cb202"
+[GIN] 2024/04/13 - 11:27:18 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712978839&nonce=ed232de0f19fd847c9ebe290cc65fc84&sign=7a2b848d6f45999763984f29719dc7ed"
+[GIN] 2024/04/13 - 11:27:24 | 200 |       570.4µs |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:28:14 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712978895&nonce=220b14ad1c2e4b440bbc55c963340754&sign=c6de63f70fe57f6cc785cbb044fd98b4"
+[GIN] 2024/04/13 - 11:31:20 | 200 |    425.4194ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979080&nonce=b2f980a6bee6e42d05f44cfa9ef4d876&sign=40ffc3c3bbaa01ed1d5b46282629b839"
+[GIN] 2024/04/13 - 11:31:21 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712979082&nonce=482707330d0a629978e84b9bb43b75c4&sign=8614398b66026fbf65de88a50c450557"
+[GIN] 2024/04/13 - 11:31:30 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:33:07 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979188&nonce=addede44edf96da603a20b78245f2cf6&sign=428f1e527ce1b19d1f7aa7c53abe6521"
+[GIN] 2024/04/13 - 11:33:08 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979189&nonce=fe87ad002c8194b2e6e09abd9575a83a&sign=f3d9016da8d168bd30bd05865435fbb0"
+[GIN] 2024/04/13 - 11:33:09 | 200 |    339.9403ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712979189&nonce=2af3f88cc5666a0d9f474e6f8c7d7f82&sign=dce007c9144b73f0142ee50b5778f46b"
+[GIN] 2024/04/13 - 11:33:13 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:33:16 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979197&nonce=8c8f17ef284435a02431a1b5bb74afb1&sign=7baf1f515423bf2e9febdd76009a4fb2"
+[GIN] 2024/04/13 - 11:38:10 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979490&nonce=3f7165f1aacf68795d8c75958945ae19&sign=2221fcfd25d7c7a8be3b47a32ddc3cd0"
+[GIN] 2024/04/13 - 11:41:36 | 200 |    124.7907ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979696&nonce=b49485200cf78ee8d398da160edd68e1&sign=4ac749506199a7859c1bc231b95fd03a"
+[GIN] 2024/04/13 - 11:41:37 | 200 |    263.8779ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712979697&nonce=981e70cc8f2469cbf19e727105589d94&sign=33397a19d430e39cd022bbda8ead80e7"
+[GIN] 2024/04/13 - 11:41:44 | 200 |       520.1µs |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:42:00 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979721&nonce=e0d28114d17b5719cb791f99c6d5abc2&sign=f73b34bc4c120c2c555a122a3e1c740a"
+[GIN] 2024/04/13 - 11:43:51 | 200 |       661.8µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979832&nonce=75abcc6dddab758edc10205eb2e1cb48&sign=d6783d384e8860cab77f553aa9ff2734"
+[GIN] 2024/04/13 - 11:44:02 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979842&nonce=4d7b14c46c124cdcebc9dd1ab3d8479a&sign=25f5dc0de607558b14c6d445cf130141"
+[GIN] 2024/04/13 - 11:44:06 | 200 |    224.8973ms |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712979846&nonce=bd3ccde40579277a0f68946777bb52a2&sign=17ca29bf64a06d57b2264a7260e6b2f7"
+[GIN] 2024/04/13 - 11:44:10 | 200 |       504.2µs |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:44:15 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979855&nonce=7dfa052b9f2810739e93ca3f0309e071&sign=b190a71f9a63d1e07c2b1c6d3b662d07"
+[GIN] 2024/04/13 - 11:44:16 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712979857&nonce=7df7521b89e1a6c6c81292b0f3742e29&sign=df9a3a90a4571593294f86469fbaec18"
+[GIN] 2024/04/13 - 11:46:18 | 200 |       543.1µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712979979&nonce=e9ef986db5459694c54e5876d4c0180c&sign=3b77bbdcf35340a5c2fcd3886f106106"
+[GIN] 2024/04/13 - 11:46:19 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712979980&nonce=6e0bd543e430bdaf2655c9b50a2ebcb6&sign=be301dbfc47251dba933d6496a9abff3"
+[GIN] 2024/04/13 - 11:46:24 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:46:40 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980001&nonce=4d7e5d020a3b49225f4b15c18d2bc86e&sign=2b00aefbce74105c51b38ce8eb1c2e8b"
+[GIN] 2024/04/13 - 11:46:41 | 200 |       532.9µs |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712980002&nonce=10bbbf1a7edcdee880311d866e540b4e&sign=d0c3522997b7ceaeace1714869d405b0"
+[GIN] 2024/04/13 - 11:46:46 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:51:54 | 200 |    110.8675ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980315&nonce=146ed7016ddbb09cf25c2b5b9bd0fe0d&sign=b25c9c6cb53b25f2d52f0c7efb082c47"
+[GIN] 2024/04/13 - 11:51:55 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=AxieInfiniy【手游】&adminid=admin&ti=1712980316&nonce=cba61cc9c5214c8ad122fa8b0a236ae5&sign=887309d5df3ff10e82036f5b59997bb7"
+[GIN] 2024/04/13 - 11:52:02 | 200 |       530.1µs |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:55:02 | 200 |       505.1µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980503&nonce=cbdda53034fd3cd750cab57403b59a9c&sign=3153a8fb401dc7c7631e4cca6f79d350"
+[GIN] 2024/04/13 - 11:55:04 | 200 |    176.5399ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712980505&nonce=a81355a201e9c5c589cf99015bc85ee9&sign=89276e03923007621bf795c6b67215ad"
+[GIN] 2024/04/13 - 11:55:08 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 11:58:17 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980697&nonce=7ae4b71fb018f7b01b4118148797191a&sign=449f36c5fe6058e5f83f43f3e1ab9d2f"
+[GIN] 2024/04/13 - 11:59:08 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980748&nonce=c30c2ef28de16350c2d0f27a57bece93&sign=dafe998d1139378c75394b8b17977c64"
+[GIN] 2024/04/13 - 11:59:08 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980749&nonce=b032171efd36ffdbb539108d5fa45e1f&sign=c2d971fad431602943c1755391658e38"
+[GIN] 2024/04/13 - 11:59:25 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980766&nonce=9e68de3f7a76e4ac9ea9a18c0c67314d&sign=1862d2989b5a4d4921eaadf530b8742e"
+[GIN] 2024/04/13 - 11:59:27 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980767&nonce=decedbbc00028a6c43f74efa63bb5747&sign=4656b46e3de09556085263888d57f695"
+[GIN] 2024/04/13 - 11:59:37 | 200 |       548.6µs |  192.168.18.177 | POST     "/api/Renewal"
+[GIN] 2024/04/13 - 11:59:47 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 11:59:57 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712980797&nonce=54531325c93a7cc4cd42f16295665032&sign=ee18ed08c975f683cb6311703d6379d4"
+[GIN] 2024/04/13 - 12:55:30 | 200 |    106.9006ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712984130&nonce=7fb2491b80a50c08c2dab8408bd9ba12&sign=8dc8a453f8e6e7a7619807630e6f8b59"
+[GIN] 2024/04/13 - 12:55:31 | 200 |    144.6725ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712984131&nonce=63b94b3396bc7e14b2ac0f51bd5d89fa&sign=1825422fac585b2fe3c2f9e5d02025e2"
+[GIN] 2024/04/13 - 12:55:33 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 12:55:38 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712984139&nonce=b87386642d5afed85e98163c599562e1&sign=c78ee1e8d39ed6be21d7fd9c0eb258b8"
+[GIN] 2024/04/13 - 12:56:04 | 200 |       606.5µs |  192.168.18.177 | POST     "/api/Renewal"
+[GIN] 2024/04/13 - 12:56:25 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 12:56:46 | 200 |            0s |  192.168.18.177 | POST     "/api/Renewal"
+[GIN] 2024/04/13 - 12:56:54 | 200 |            0s |  192.168.18.177 | POST     "/api/Unsubscribe"
+[GIN] 2024/04/13 - 12:58:47 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712984327&nonce=42016d774663dda3b74b53b5ec802b7b&sign=0073854c2c4b657198334424be01be35"
+[GIN] 2024/04/13 - 12:59:46 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712984387&nonce=f21cffcba76b810addca4184cbb76b80&sign=f2a124b44319d0b382c69c0dd9a3b480"
+[GIN] 2024/04/13 - 13:04:58 | 200 |            0s |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712984699&nonce=011fdf2c8b63cfe5f85e854864b2ebdb&sign=3ed5cf005fd7e1d1646792c5aba35230"
+[GIN] 2024/04/13 - 13:05:02 | 200 |            0s |  192.168.18.177 | POST     "/api/postOrder"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 13:14:59 | 401 |        17.9µs |       127.0.0.1 | POST     "/api/postOrder"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 13:15:20 | 200 |    109.8373ms |       127.0.0.1 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 13:16:15 | 200 |     82.9613ms |       127.0.0.1 | POST     "/api/postOrder"
+[GIN] 2024/04/13 - 13:20:11 | 200 |    217.7757ms |       127.0.0.1 | POST     "/api/postOrder"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2024/04/13 - 13:39:39 | 200 |    135.0463ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712986780&nonce=f3fcd6abbcd6a452b36a422bf90e083d&sign=81f609ba85a65865c3889d76784acfb0"
+[GIN] 2024/04/13 - 13:48:47 | 200 |    162.0253ms |  192.168.18.177 | GET      "/api/GetGameCity?game=傲笑江湖【手游】&adminid=admin&ti=1712987328&nonce=88c0bd946dbb3cac1b0a0aea0b737218&sign=fb01acbf324dab82b84c359767d87cc2"
+[GIN] 2024/04/13 - 13:49:34 | 200 |       531.9µs |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987374&nonce=47b0add9a8362fc9fbda81272fcabf03&sign=35565c77e6f4829125f5e9c3e53df935"
+[GIN] 2024/04/13 - 13:50:10 | 200 |    102.1827ms |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987410&nonce=009bd1bc670be991f2fcc8bb6c08cc9c&sign=18ab086ed84c4b573fa8de763281d7f2"
+[GIN] 2024/04/13 - 13:50:11 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987411&nonce=f2547d26d4d3cf4d148f97430245af64&sign=92901d620eb09d6c05fb852cf83d08d2"
+[GIN] 2024/04/13 - 13:50:11 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987412&nonce=282367c543b2625bf6f0bd8277456841&sign=7bdf974023725e966205a882a4ce6e58"
+[GIN] 2024/04/13 - 13:50:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987412&nonce=3cdd911ac9ec702f6c07ae795f43e136&sign=9649dddca57aefbab29d5dc7cc77501c"
+[GIN] 2024/04/13 - 13:50:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987412&nonce=4de9db3ead329056f91b8eb99621c2e0&sign=86677a31e68ecfba620723cbea811662"
+[GIN] 2024/04/13 - 13:50:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987413&nonce=b0fcf2a46478cfbb275d9c5ce6b6b193&sign=c3ccb49daf337966ad299b2de0c367e4"
+[GIN] 2024/04/13 - 13:50:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987413&nonce=aaa0704f6c2dee480d5558c26d84ec2a&sign=bfe10253046223d62392af42fc895e3e"
+[GIN] 2024/04/13 - 13:50:13 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987413&nonce=931c3388e690d60e878f24893c04d410&sign=0d9c050f47477b418acd56f3bd7210f7"
+[GIN] 2024/04/13 - 13:50:13 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987413&nonce=1eb219d9c0212a93f795c400afec423a&sign=267d80970f227e364dbab4d983b509ac"
+[GIN] 2024/04/13 - 13:50:48 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987448&nonce=94bdf7c293d8b132ae2111c6d9cc821f&sign=4f7df69397635f224428455f36cd0b2f"
+[GIN] 2024/04/13 - 13:54:12 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987653&nonce=c2b1c29a93f9af60a5d5c1b693af08ad&sign=ad82ac0a4bf4abfb90744d551cc5212b"
+[GIN] 2024/04/13 - 13:54:13 | 200 |            0s |  192.168.18.177 | GET      "/api/getGame?adminid=admin&ti=1712987654&nonce=a3440cc263a6c48c9ffe9980ddde11cc&sign=0cca84455da875778313ddeea136e343"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func2 (3 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func3 (3 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func4 (3 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func5 (3 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func6 (3 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func7 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/getGame              --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /api/GetGameCity          --> main.main.func3 (4 handlers)
+[GIN-debug] POST   /api/postOrder            --> main.main.func4 (4 handlers)
+[GIN-debug] POST   /api/Renewal              --> main.main.func5 (4 handlers)
+[GIN-debug] POST   /api/Change               --> main.main.func6 (4 handlers)
+[GIN-debug] POST   /api/Unsubscribe          --> main.main.func7 (4 handlers)
+[GIN-debug] POST   /api/ChangeCity           --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080

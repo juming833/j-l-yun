@@ -1,6 +1,8 @@
-apiKey:
+username: lins
+password: baidu123.comqwe
+apiKey: jianyun
 port: 8080
-token:
+token: cy012DqRTVWsEOVRlIDQlaCA
 #默认记录日志等级
 loglevel: INFO
 #是否为测试环境

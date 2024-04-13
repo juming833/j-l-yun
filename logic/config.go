@@ -6,6 +6,8 @@ import (
 )
 
 type Config struct {
+	Username  string `yaml:"username"`
+	Password  string `yaml:"password"`
 	ApiKey    string `yaml:"apiKey"`
 	Port      string `yaml:"port"`
 	Token     string `yaml:"token"`

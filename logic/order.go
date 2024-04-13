@@ -12,7 +12,7 @@ import (
 	"strings"
 )
 
-func BuyOrder(c *gin.Context, token string) {
+func BuyOrder(c *gin.Context, token, username, password string) {
 	nodetime := c.PostForm("nodetime")
 	gamename := c.PostForm("gamename")
 	city := c.PostForm("city")
@@ -40,11 +40,11 @@ func BuyOrder(c *gin.Context, token string) {
 	}
 
 	// 设置请求头
-	//req.Header.Add("User-Agent", "Apifox/1.0.0 (https://apifox.com)")
-	//req.Header.Add("Accept", "*/*")
-	//req.Header.Add("Host", "www.91jlsy.com")
-	//req.Header.Add("Connection", "keep-alive")
-	//req.Header.Add("Cookie", fmt.Sprintf("username=%s; password=%s", username, password))
+	req.Header.Add("User-Agent", "Apifox/1.0.0 (https://apifox.com)")
+	req.Header.Add("Accept", "*/*")
+	req.Header.Add("Host", "www.91jlsy.com")
+	req.Header.Add("Connection", "keep-alive")
+	req.Header.Add("Cookie", fmt.Sprintf("username=%s; password=%s", username, password))
 
 	// 发送HTTP请求
 	client := &http.Client{}
@@ -87,6 +87,7 @@ func logJSON(data interface{}) {
 		log.Println("Error re-encoding JSON:", err)
 		return
 	}
+
 	jsonString := strings.ReplaceAll(buffer.String(), "\n", "")
 	// 输出或记录处理后的JSON
 	logger.Debug(jsonString)
